@@ -1,0 +1,3 @@
+/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir

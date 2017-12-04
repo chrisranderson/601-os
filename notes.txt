@@ -1,0 +1,194 @@
+DEBUGGING: target remote unix:.sockets/gdb
+
+Captain's log
+-------------------
+cvt1: synchtest.c now uses two threads, should be able to step through and figure it out
+problem might be with cv_signal?
+- Why do we release and acquire the lock within a spinlock? Effectively pointless?
+- Why do we release the lock at all?
+
+READ WRITE locks
+  - rwtest.c
+  - 
+
+
+Time spent
+-------------------
+Session 1: Chris, Steph, Matt
+Session 2: Chris, Steph, Matt
+Session 3: Chris, Matt
+Session 4: Chris, Matt (partial), Steph
+
+
+
+Rebuild kernel:
+  cd kern/conf
+  ./config DUMBVM
+  cd ../compile/DUMBVM
+  bmake depend
+  bmake
+  bmake install
+
+Run kernel:
+  cd ~/school-projects/601-os/root
+  sys161 kernel
+
+Assignment 1:
+  cd kern/synchprobs
+
+# Assignment 1
+
+4.3.1. Thread questions
+
+  What happens to a thread when it calls thread_exit? What about when it sleeps?
+
+    exit: the current thread is terminated
+    sleep: the thread temporarily stops executing
+
+  What function—​or functions—​handle(s) a context switch?
+
+    mi_switch: machine independent. Gets things ready for a switch.
+    md_switch: machine dependent. Actually does the switch.
+
+  What does it mean for a thread to be in each of the possible thread states?
+
+    created/new: waiting to be admitted by a scheduler
+    ready: loaded into memory and waits for execution
+    running: chosen for execution
+      kernel mode: can access kernel/user address space
+      user mode: only own instructions/data
+    blocked: waiting for a change like a semaphore increment
+    terminated: execution done
+
+
+  What does it mean to turn interrupts off? How is this accomplished? Why is it important to turn off interrupts in the thread subsystem code?
+
+    - kernel code can't be interrupted
+    - cpu_irqoff() and cpu_irqon()
+    - deadlock could happen
+
+  What happens when a thread wakes up another thread? How does a sleeping thread get to run again?
+
+4.3.2. Scheduling questions
+
+  What function (or functions) choose the next thread to run?
+
+    schedule()
+
+  How is the next thread to run chosen?
+
+    Round-robin. Each thread is given a certain amount of time (quantum.) At
+    the end of that interval, another thread goes.
+
+  What role does the hardware timer play in scheduling?
+
+    It determines how often to re-schedule...?
+
+  What hardware independent function is called on a timer interrupt?
+
+    ???????????????????
+
+4.3.3. Synchronization questions
+
+  Describe how wchan_sleep and wchan_wakeone are used to implement semaphores.
+
+    wchan: wake channel
+    wchan_sleep: sleeps on a wait channel, given a locked spinlock.
+    wchan_wakeone: wake one thread on a wait channel
+
+  Why does the lock API in OS/161 provide lock_do_i_hold, but not lock_get_holder?
+
+    I'm not sure why you would need to know who was holding it - that shouldn't
+    change your behavior.
+
+######### Assignment 1 notes
+
+- understand semaphore code
+- implement locks
+  - Uh... what are these
+- implement condition variables
+  - mesa/non-blocking semantics
+- The interface for the lock structure is defined in kern/include/synch.h. Stub code is provided in kern/threads/synch.c. When
+- implement reader-writer locks
+
+
+
+Assignment one
+- implementation in thread.c
+- more info in synch.c and synch.h
+- tests in synchtest.c
+
+implement lock_aquire, lock_release, lock_do_i_hold
+
+
+notes
+-------
+wchan: stands for wait channel
+V: increments the semaphore
+P: decrements the semaphore
+
+  assembly
+    li: copy a value into a register
+    mtc0: 
+    BEV bit:
+
+
+tips
+------------
+GDB cheat sheet: http://users.ece.utexas.edu/~adnan/gdb-refcard.pdf
+
+
+
+general notes
+-------------
+ipi: inter-processor interrupt
+lamebus: 
+kgets asks for user input
+
+chronology
+----------
+start.S
+  Some stuff in assembly to get a stack set up
+  set up the TLB
+  call kmain after everything is set up.
+
+main.c
+  kmain calls boot - print some stuff
+  ram bootstrap
+    get first free virtual address, convert to physical address
+  proc bootstrap
+    make a kernel process - this holds all of the kernel level threads
+  thread bootstrap
+    cpuarray_init - array of cpus
+      cpus: hardware number, zombies, hardclocks, spinlocks, is idle, runqueue, ipi pending,
+        numshootdown,
+      create a thread
+        name
+        state
+        wait channel name
+        machdep
+        stack
+        context
+        cpu
+        process
+        in interrupt flag, curspl (?), 
+      set thread cpu
+  hardclock_bootstrap
+    lbolt
+  vfs bootstrap
+    creates a lock for the 
+    create devnull (device)
+      no device ops
+    semfs bootstrap
+    vnode array
+  kheap_nextgeneration
+  vm_bootstrap: nothing
+  kprintf makes its own lock
+  start cpus
+
+start menu
+
+
+Lock test 1
+---------------
+creates a lock

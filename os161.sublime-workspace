@@ -1,0 +1,4676 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"valid",
+				"get_valid_moves"
+			],
+			[
+				"tota",
+				"total_pieces"
+			],
+			[
+				"piec",
+				"piece_count"
+			],
+			[
+				"selecto",
+				"select_proportion"
+			],
+			[
+				"fitn",
+				"fitnesses"
+			],
+			[
+				"muta",
+				"MUTATION_COUNT"
+			],
+			[
+				"total",
+				"total_value"
+			],
+			[
+				"child",
+				"child_ids"
+			],
+			[
+				"loca",
+				"starting_locations"
+			],
+			[
+				"pie",
+				"piece_count"
+			],
+			[
+				"otherp",
+				"other_piece_col"
+			],
+			[
+				"flip_",
+				"flip_pieces"
+			],
+			[
+				"piece",
+				"piece_locations"
+			],
+			[
+				"nei",
+				"neighbor"
+			],
+			[
+				"neig",
+				"neighbors"
+			],
+			[
+				"col",
+				"col_diff"
+			],
+			[
+				"row",
+				"row_number"
+			],
+			[
+				"stat",
+				"static_score"
+			],
+			[
+				"apply",
+				"apply_in_direction"
+			],
+			[
+				"print",
+				"print_format"
+			],
+			[
+				"re",
+				"remaining_moves"
+			],
+			[
+				"player",
+				"player_turn"
+			],
+			[
+				"node",
+				"node_to_delete"
+			],
+			[
+				"nod",
+				"node_to_delete"
+			],
+			[
+				"exist",
+				"existing_node"
+			],
+			[
+				"exis",
+				"existing_nodes"
+			],
+			[
+				"instr",
+				"instruction_type"
+			],
+			[
+				"instru",
+				"instruction_type"
+			],
+			[
+				"ins",
+				"instruction_count"
+			],
+			[
+				"best",
+				"best_flips"
+			],
+			[
+				"flipp",
+				"flipped_columns"
+			],
+			[
+				"new",
+				"new_matrix_score"
+			],
+			[
+				"contin",
+				"continuous_groups"
+			],
+			[
+				"is",
+				"is_zero"
+			],
+			[
+				"poss",
+				"possible_groups"
+			],
+			[
+				"dist",
+				"distance_from_1"
+			],
+			[
+				"island",
+				"island_value"
+			],
+			[
+				"py",
+				"py_library"
+			],
+			[
+				"encode",
+				"encode_png"
+			],
+			[
+				"enco",
+				"encode_png"
+			],
+			[
+				"image",
+				"image_bytes"
+			],
+			[
+				"padd",
+				"padding_areas"
+			],
+			[
+				"mag",
+				"magma_data"
+			],
+			[
+				"conv1",
+				"conv1_2"
+			],
+			[
+				"conv_2",
+				"conv2_1"
+			],
+			[
+				"fedic",
+				"feed_dictionary"
+			],
+			[
+				"frame",
+				"most_recent_frame"
+			],
+			[
+				"las",
+				"config_last_modified_time"
+			],
+			[
+				"resiz",
+				"resized_section"
+			],
+			[
+				"from",
+				"fromarray"
+			],
+			[
+				"fc2",
+				"fc2_w"
+			],
+			[
+				"video",
+				"video_writer"
+			],
+			[
+				"in",
+				"in_channel"
+			],
+			[
+				"imu",
+				"im_util"
+			],
+			[
+				"conv",
+				"conv_array"
+			],
+			[
+				"blocks",
+				"blocks_2d"
+			],
+			[
+				"visu",
+				"visualizer"
+			],
+			[
+				"bloc",
+				"blocks_2d"
+			],
+			[
+				"blo",
+				"block_number"
+			],
+			[
+				"summ",
+				"summary_op"
+			],
+			[
+				"train",
+				"trainable_variables"
+			],
+			[
+				"config",
+				"config_item"
+			],
+			[
+				"mi",
+				"minimum"
+			],
+			[
+				"arra",
+				"last_array_count"
+			],
+			[
+				"_pa",
+				"_pauseText"
+			],
+			[
+				"colum",
+				"columns"
+			],
+			[
+				"fram",
+				"frames_over_time"
+			],
+			[
+				"windsi",
+				"_windowSize"
+			],
+			[
+				"signa",
+				"signal_handler"
+			],
+			[
+				"reshap",
+				"reshaped_arrays"
+			],
+			[
+				"ori",
+				"orig_op"
+			],
+			[
+				"busy",
+				"busy_employees"
+			],
+			[
+				"generat",
+				"generator"
+			],
+			[
+				"t2l",
+				"tst_l2rmse"
+			],
+			[
+				"trans",
+				"translation_matrix"
+			],
+			[
+				"pack",
+				"pacemaker"
+			],
+			[
+				"vert",
+				"vertices"
+			],
+			[
+				"batch",
+				"BATCH_SIZE"
+			],
+			[
+				"batsi",
+				"BATCH_SIZE"
+			],
+			[
+				"imagesiz",
+				"IMAGE_SIZE"
+			],
+			[
+				"OR",
+				"ORB_DESCRIPTOR_SIZE"
+			],
+			[
+				"kepos",
+				"keypoints"
+			],
+			[
+				"poo",
+				"pool5"
+			],
+			[
+				"syl",
+				"syllable"
+			],
+			[
+				"tocol",
+				"to_column"
+			],
+			[
+				"fromro",
+				"from_row"
+			],
+			[
+				"reddi",
+				"reddit-batches"
+			],
+			[
+				"test",
+				"test_image"
+			],
+			[
+				"selec",
+				"selected_index"
+			],
+			[
+				"handl",
+				"identify_handles"
+			],
+			[
+				"dire",
+				"files_in_directory"
+			],
+			[
+				"part",
+				"partitions"
+			],
+			[
+				"ASSI",
+				"assign_functions"
+			],
+			[
+				"linere",
+				"lines_remaining_in_file"
+			],
+			[
+				"liner",
+				"lines_remaining_in_file"
+			],
+			[
+				"linesremfi",
+				"lines_remaining_in_files"
+			],
+			[
+				"workloca",
+				"worker_location"
+			],
+			[
+				"num",
+				"number_of_workers"
+			],
+			[
+				"icon",
+				"icon-open"
+			],
+			[
+				"sec",
+				"sections_over_time"
+			],
+			[
+				"he",
+				"HEIGHT"
+			],
+			[
+				"makedir",
+				"make_directory"
+			],
+			[
+				"alexn",
+				"alexnet_v2"
+			],
+			[
+				"topic",
+				"get_topics"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"boost",
+				"boost_type"
+			],
+			[
+				"linear",
+				"LinearRegression"
+			],
+			[
+				"lnpr",
+				"lnprob"
+			],
+			[
+				"ney",
+				"next_y"
+			],
+			[
+				"fixc",
+				"fixed_contour"
+			],
+			[
+				"kerns",
+				"kernel_sums"
+			],
+			[
+				"anchor_",
+				"anchor_point"
+			],
+			[
+				"visupo",
+				"visualize_polygons"
+			],
+			[
+				"rota",
+				"rotated_a"
+			],
+			[
+				"grad",
+				"python_process_gradient"
+			],
+			[
+				"newoptim",
+				"new_optimizer"
+			],
+			[
+				"gradiovt",
+				"global_gradients_over_time"
+			],
+			[
+				"gradients",
+				"gradients_over_time"
+			],
+			[
+				"ste",
+				"step3"
+			],
+			[
+				"s2",
+				"step2"
+			],
+			[
+				"bat",
+				"batch_2"
+			],
+			[
+				"batc",
+				"batch_1"
+			],
+			[
+				"all",
+				"all_labels"
+			],
+			[
+				"trainpos",
+				"train_positive_a"
+			],
+			[
+				"pair",
+				"pair_options"
+			],
+			[
+				"as",
+				"as_list"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"placeh",
+				"placeholder"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "os161/kern/thread/thread.c",
+			"settings":
+			{
+				"buffer_size": 33544,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/vfs/vfscwd.c",
+			"settings":
+			{
+				"buffer_size": 4055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/arch/sys161/main/start.S",
+			"settings":
+			{
+				"buffer_size": 10628,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/main/main.c",
+			"settings":
+			{
+				"buffer_size": 5747,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 1113 files for \"va_list\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/common/libc/printf/__printf.c:\n   93  \n   94  \t/* The varargs argument pointer */\n   95: \tva_list ap;\n   96  \n   97  \t/* Total count of characters printed */\n   ..\n  570  int\n  571  __vprintf(void (*func)(void *clientdata, const char *str, size_t len),\n  572: \t  void *clientdata, const char *format, va_list ap)\n  573  {\n  574  \tPF pf;\n\n/home/chris/school-projects/601-os/os161/common/libc/printf/snprintf.c:\n   94  \n   95  /*\n   96:  * The va_list version of snprintf.\n   97   */\n   98  int\n   99: vsnprintf(char *buf, size_t len, const char *fmt, va_list ap)\n  100  {\n  101  \tint chars;\n  ...\n  149  {\n  150  \tint chars;\n  151: \tva_list ap;\n  152  \tva_start(ap, fmt);\n  153  \tchars = vsnprintf(buf, len, fmt, ap);\n\n/home/chris/school-projects/601-os/os161/common/libc/printf/tprintf.c:\n   15  {\n   16  \tint chars;\n   17: \tva_list ap;\n   18  \n   19  #ifdef SECRET_TESTING\n   ..\n   33  {\n   34  \tint chars;\n   35: \tva_list ap;\n   36  \n   37  #ifndef SECRET_TESTING\n\n/home/chris/school-projects/601-os/os161/common/libtest161/test161.c:\n   78  say(const char *fmt, ...)\n   79  {\n   80: \tva_list ap;\n   81  \tva_start(ap, fmt);\n   82  \tvsnprintf(write_buffer, BUFFER_SIZE, fmt, ap);\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/stdarg.h:\n   44  \n   45  #ifdef __GNUC__\n   46: typedef __va_list va_list;\n   47  \n   48  #if __GNUC__ < 4 || (__GNUC__ == 4 && __GNUC_MINOR__ < 8)\n   ..\n   60   * really the best place for them... but if we put them in <lib.h>\n   61   * we'd need to either include this file there, put these defs there,\n   62:  * or split the definition of va_list into another header file, none\n   63   * of which seems entirely desirable.\n   64   */\n   65: void vkprintf(const char *fmt, va_list ap) __PF(1,0);\n   66: int vsnprintf(char *buf, size_t maxlen, const char *fmt, va_list ap) __PF(3,0);\n   67  \n   68  /*\n   ..\n   74   */\n   75  int __vprintf(void (*func)(void *clientdata, const char *str, size_t len),\n   76:               void *clientdata, const char *format, va_list ap) __PF(3,0);\n   77  \n   78  \n\n/home/chris/school-projects/601-os/os161/kern/include/kern/types.h:\n   86  /* See note in <stdarg.h> */\n   87  #ifdef __GNUC__\n   88: typedef __builtin_va_list __va_list;\n   89  #endif\n   90  \n\n/home/chris/school-projects/601-os/os161/kern/lib/kprintf.c:\n   98  inline\n   99  int\n  100: __kprintf(const char *fmt, va_list ap)\n  101  {\n  102  \tint chars;\n  ...\n  134  {\n  135  \tint chars;\n  136: \tva_list ap;\n  137  \n  138  \tva_start(ap, fmt);\n  ...\n  151  panic(const char *fmt, ...)\n  152  {\n  153: \tva_list ap;\n  154  \n  155  \t/*\n\n/home/chris/school-projects/601-os/os161/man/libc/__vprintf.html:\n   57            void *</tt><em>clientdata</em><tt>,\n   58            const char *</tt><em>format</em><tt>,\n   59:           va_list)</tt>\n   60  </p>\n   61  \n\n/home/chris/school-projects/601-os/os161/man/libc/err.html:\n   60  <tt>void</tt><br>\n   61  <tt>verr(int </tt><em>exitcode</em><tt>,\n   62: const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   63  <br>\n   64  <tt>void</tt><br>\n   65  <tt>verrx(int </tt><em>exitcode</em><tt>,\n   66: const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   67  </p>\n   68  \n   ..\n   92  <tt>verrx</tt> and <tt>verr</tt> are the same as errx and err\n   93  respectively, except that the additional arguments for printf are\n   94: taken to have been already packaged up in a <tt>va_list</tt> by use of\n   95  the <A HREF=stdarg.html>stdarg</A> facility.\n   96  </p>\n\n/home/chris/school-projects/601-os/os161/man/libc/snprintf.html:\n   56  <tt>int</tt><br>\n   57  <tt>vsnprintf(char *</tt><em>buf</em><tt>, size_t </tt><em>buflen</em><tt>,\n   58: const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   59  </p>\n   60  \n\n/home/chris/school-projects/601-os/os161/man/libc/stdarg.html:\n   50  <tt>#include &lt;stdarg.h&gt;</tt><br>\n   51  <br>\n   52: <tt>va_start(va_list </tt><em>ap</em><tt>,\n   53  </tt><em>start-argument</em><tt>);</tt><br>\n   54  <br>\n   55: <tt>va_end(va_list </tt><em>ap</em><tt>);</tt><br>\n   56  <br>\n   57  <em>type</em><br>\n   58: <tt>va_arg(va_list </tt><em>ap</em><tt>, </tt><em>type</em><tt>);</tt><br>\n   59  <br>\n   60: <tt>va_copy(va_list </tt><em>dest</em><tt>,\n   61: va_list </tt><em>src</em><tt>);</tt><br>\n   62  </p>\n   63  \n   ..\n   66  Functions where the number of arguments is not fixed at compile time\n   67  can be written using the stdarg facility. This provides a type,\n   68: <tt>va_list</tt>, and the macros listed above. These allow iterating\n   69  through the arguments.\n   70  </p>\n   71  \n   72  <p>\n   73: <tt>va_start</tt> initializes a <tt>va_list</tt> <em>ap</em> to point\n   74  to the current function's arguments. The <em>start-argument</em>\n   75  argument should be the name of the last fixed parameter in the calling\n   ..\n   79  \n   80  <p>\n   81: <tt>va_end</tt> cleans up a <tt>va_list</tt> once it is no longer\n   82  needed. While failure to use <tt>va_end</tt> may have no effect on\n   83  some architectures (in fact, in some cases <tt>va_end</tt> does\n   ..\n  109  <h3>Restrictions</h3>\n  110  <p>\n  111: Because the <tt>va_list</tt> is not necessarily a simple type, but may\n  112  involve pointers to state maintained elsewhere, it is not necessarily\n  113: a simple value. Thus, assigning <tt>va_list</tt> objects to each other\n  114  with `=', memcpy, or the like, or passing them to functions, may not\n  115  give multiple independent objects. When in doubt, use\n\n/home/chris/school-projects/601-os/os161/man/libc/warn.html:\n   57  <br>\n   58  <tt>void</tt><br>\n   59: <tt>vwarn(const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   60  <br>\n   61  <tt>void</tt><br>\n   62: <tt>vwarnx(const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   63  </p>\n   64  \n   ..\n   88  <tt>warn</tt> respectively, except that the additional arguments for\n   89  printf are taken to have been already packaged up in a\n   90: <tt>va_list</tt> by use of the <A HREF=stdarg.html>stdarg</A> facility.\n   91  </p>\n   92  \n\n/home/chris/school-projects/601-os/os161/userland/include/err.h:\n   32  \n   33  #include <sys/cdefs.h>   /* for __DEAD */\n   34: #include <kern/types.h>  /* for __va_list */\n   35  \n   36  /*\n   ..\n   51  __DEAD void errx(int exitcode, const char *fmt, ...);\n   52  \n   53: void vwarn(const char *fmt, __va_list);\n   54: void vwarnx(const char *fmt, __va_list);\n   55: __DEAD void verr(int exitcode, const char *fmt, __va_list);\n   56: __DEAD void verrx(int exitcode, const char *fmt, __va_list);\n   57  \n   58  #endif /* _ERR_H_ */\n\n/home/chris/school-projects/601-os/os161/userland/include/stdarg.h:\n   41   */\n   42  \n   43: typedef __va_list va_list;\n   44  \n   45  #if __GNUC__ < 4 || (__GNUC__ == 4 && __GNUC_MINOR__ < 8)\n\n/home/chris/school-projects/601-os/os161/userland/include/stdio.h:\n   32  \n   33  /*\n   34:  * Get the __-protected definition of va_list. We aren't supposed to\n   35   * include stdarg.h here.\n   36   */\n   ..\n   49  \t      void *clientdata,\n   50  \t      const char *fmt,\n   51: \t      __va_list ap);\n   52  \n   53  /* Printf calls for user programs */\n   54  int printf(const char *fmt, ...);\n   55: int vprintf(const char *fmt, __va_list ap);\n   56  int snprintf(char *buf, size_t len, const char *fmt, ...);\n   57: int vsnprintf(char *buf, size_t len, const char *fmt, __va_list ap);\n   58  \n   59  /* Automated testing extensions. */\n\n/home/chris/school-projects/601-os/os161/userland/include/test/test.h:\n   54  #else\n   55  \tchar buf[256];\n   56: \tva_list ap;\n   57  \tva_start(ap, fmt);\n   58  \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   ..\n   71  #else\n   72  \tchar buf[256];\n   73: \tva_list ap;\n   74  \tva_start(ap, fmt);\n   75  \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   ..\n   85  {\n   86  \tchar buf[256];\n   87: \tva_list ap;\n   88  \tva_start(ap, fmt);\n   89  \tvsnprintf(buf, sizeof(buf), fmt, ap);\n\n/home/chris/school-projects/601-os/os161/userland/lib/hostcompat/err.c:\n   51  static\n   52  void\n   53: hostcompat_printerr(int use_errno, const char *fmt, va_list ap)\n   54  {\n   55  \tconst char *errmsg;\n   ..\n   91  \n   92  /*\n   93:  * The va_list versions of the warn/err functions.\n   94   */\n   95  \n   96  /* warn/vwarn: use errno, don't exit */\n   97  void\n   98: vwarn(const char *fmt, va_list ap)\n   99  {\n  100  \thostcompat_printerr(1, fmt, ap);\n  ...\n  103  /* warnx/vwarnx: don't use errno, don't exit */\n  104  void\n  105: vwarnx(const char *fmt, va_list ap)\n  106  {\n  107  \thostcompat_printerr(0, fmt, ap);\n  ...\n  110  /* err/verr: use errno, then exit */\n  111  void\n  112: verr(int exitcode, const char *fmt, va_list ap)\n  113  {\n  114  \thostcompat_printerr(1, fmt, ap);\n  ...\n  118  /* errx/verrx: don't use errno, but do then exit */\n  119  void\n  120: verrx(int exitcode, const char *fmt, va_list ap)\n  121  {\n  122  \thostcompat_printerr(0, fmt, ap);\n  ...\n  125  \n  126  /*\n  127:  * The non-va_list versions of the warn/err functions.\n  128:  * Just hand off to the va_list versions.\n  129   */\n  130  \n  ...\n  132  warn(const char *fmt, ...)\n  133  {\n  134: \tva_list ap;\n  135  \tva_start(ap, fmt);\n  136  \tvwarn(fmt, ap);\n  ...\n  141  warnx(const char *fmt, ...)\n  142  {\n  143: \tva_list ap;\n  144  \tva_start(ap, fmt);\n  145  \tvwarnx(fmt, ap);\n  ...\n  150  err(int exitcode, const char *fmt, ...)\n  151  {\n  152: \tva_list ap;\n  153  \tva_start(ap, fmt);\n  154  \tverr(exitcode, fmt, ap);\n  ...\n  159  errx(int exitcode, const char *fmt, ...)\n  160  {\n  161: \tva_list ap;\n  162  \tva_start(ap, fmt);\n  163  \tverrx(exitcode, fmt, ap);\n\n/home/chris/school-projects/601-os/os161/userland/lib/hostcompat/host-err.h:\n   51  void errx(int exitcode, const char *fmt, ...);\n   52  \n   53: void vwarn(const char *fmt, va_list);\n   54: void vwarnx(const char *fmt, va_list);\n   55: void verr(int exitcode, const char *fmt, va_list);\n   56: void verrx(int exitcode, const char *fmt, va_list);\n   57  \n   58  #endif /* HOSTCOMPAT_ERR_H */\n\n/home/chris/school-projects/601-os/os161/userland/lib/libc/stdio/printf.c:\n   59  {\n   60  \tint chars;\n   61: \tva_list ap;\n   62  \n   63  \tva_start(ap, fmt);\n   ..\n   69  /* vprintf: call __vprintf to do the work. */\n   70  int\n   71: vprintf(const char *fmt, va_list ap)\n   72  {\n   73  \tint chars, err;\n\n/home/chris/school-projects/601-os/os161/userland/lib/libc/unix/err.c:\n   73  static\n   74  void\n   75: __printerr(int use_errno, const char *fmt, va_list ap)\n   76  {\n   77  \tconst char *errmsg;\n   ..\n  117  \n  118  /*\n  119:  * The va_list versions of the warn/err functions.\n  120   */\n  121  \n  122  /* warn/vwarn: use errno, don't exit */\n  123  void\n  124: vwarn(const char *fmt, va_list ap)\n  125  {\n  126  \t__printerr(1, fmt, ap);\n  ...\n  129  /* warnx/vwarnx: don't use errno, don't exit */\n  130  void\n  131: vwarnx(const char *fmt, va_list ap)\n  132  {\n  133  \t__printerr(0, fmt, ap);\n  ...\n  136  /* err/verr: use errno, then exit */\n  137  void\n  138: verr(int exitcode, const char *fmt, va_list ap)\n  139  {\n  140  \t__printerr(1, fmt, ap);\n  ...\n  145  /* errx/verrx: don't use errno, but do then exit */\n  146  void\n  147: verrx(int exitcode, const char *fmt, va_list ap)\n  148  {\n  149  \t__printerr(0, fmt, ap);\n  ...\n  153  \n  154  /*\n  155:  * The non-va_list versions of the warn/err functions.\n  156:  * Just hand off to the va_list versions.\n  157   */\n  158  \n  ...\n  160  warn(const char *fmt, ...)\n  161  {\n  162: \tva_list ap;\n  163  \tva_start(ap, fmt);\n  164  \tvwarn(fmt, ap);\n  ...\n  169  warnx(const char *fmt, ...)\n  170  {\n  171: \tva_list ap;\n  172  \tva_start(ap, fmt);\n  173  \tvwarnx(fmt, ap);\n  ...\n  178  err(int exitcode, const char *fmt, ...)\n  179  {\n  180: \tva_list ap;\n  181  \tva_start(ap, fmt);\n  182  \tverr(exitcode, fmt, ap);\n  ...\n  187  errx(int exitcode, const char *fmt, ...)\n  188  {\n  189: \tva_list ap;\n  190  \tva_start(ap, fmt);\n  191  \tverrx(exitcode, fmt, ap);\n\n/home/chris/school-projects/601-os/os161/userland/sbin/dumpsfs/dumpsfs.c:\n  107  dumpvalf(const char *desc, const char *valf, ...)\n  108  {\n  109: \tva_list ap;\n  110  \tchar buf[128];\n  111  \n\n/home/chris/school-projects/601-os/os161/userland/testbin/badcall/report.c:\n   61  static\n   62  void\n   63: vsay(const char *fmt, va_list ap)\n   64  {\n   65  \tsize_t begin, i;\n   ..\n   85  say(const char *fmt, ...)\n   86  {\n   87: \tva_list ap;\n   88  \n   89  \tva_start(ap, fmt);\n   ..\n  127  report_begin(const char *descfmt, ...)\n  128  {\n  129: \tva_list ap;\n  130  \n  131  \tsay(\"badcall: \");\n  ...\n  156  report_beginsub(const char *descfmt, ...)\n  157  {\n  158: \tva_list ap;\n  159  \n  160  \tassert(horizpos == 0);\n  ...\n  176  \tsize_t pos;\n  177  \tconst char *errmsg;\n  178: \tva_list ap;\n  179  \n  180  \tpos = horizpos;\n  ...\n  193  {\n  194  \tsize_t pos;\n  195: \tva_list ap;\n  196  \n  197  \tpos = horizpos;\n\n/home/chris/school-projects/601-os/os161/userland/testbin/bigexec/bigexec.c:\n  110  \tconst char *args[20];\n  111  \tconst char *s;\n  112: \tva_list ap;\n  113  \tint num;\n  114  \n  ...\n  159  {\n  160  \tconst char *s;\n  161: \tva_list ap;\n  162  \tint pos;\n  163  \n\n/home/chris/school-projects/601-os/os161/userland/testbin/dirconc/dirconc.c:\n   95  {\n   96  \tchar buf[512];\n   97: \tva_list ap;\n   98  \tva_start(ap, fmt);\n   99  \tvsnprintf(buf, sizeof(buf), fmt, ap);\n\n/home/chris/school-projects/601-os/os161/userland/testbin/frack/check.c:\n  581  {\n  582  \tchar buf[256];\n  583: \tva_list ap;\n  584  \n  585  \tva_start(ap, fmt);\n\n/home/chris/school-projects/601-os/os161/userland/testbin/psort/psort.c:\n  200  static\n  201  void\n  202: vscomplain(char *buf, size_t len, const char *fmt, va_list ap, int err)\n  203  {\n  204  \tsize_t pos;\n  ...\n  228  {\n  229  \tchar buf[256];\n  230: \tva_list ap;\n  231  \tssize_t junk;\n  232  \n  ...\n  250  {\n  251  \tchar buf[256];\n  252: \tva_list ap;\n  253  \tssize_t junk;\n  254  \tint err = errno;\n\n/home/chris/school-projects/601-os/os161/userland/testbin/schedpong/usem.c:\n   45  usem_init(struct usem *sem, const char *namefmt, ...)\n   46  {\n   47: \tva_list ap;\n   48  \n   49  \tva_start(ap, namefmt);\n\n/home/chris/school-projects/601-os/os161/userland/testbin/usemtest/usemtest.c:\n   73  {\n   74  \tchar buf[256];\n   75: \tva_list ap;\n   76  \n   77  \tva_start(ap, fmt);\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n107 matches across 33 files\n\n\nSearching 1113 files for \"proc_bootstrap\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/proc.h:\n   78  \n   79  /* Call once during system startup to allocate data structures. */\n   80: void proc_bootstrap(void);\n   81  \n   82  /* Create a fresh process for use by runprogram(). */\n\n/home/chris/school-projects/601-os/os161/kern/main/main.c:\n  109  \t/* Early initialization. */\n  110  \tram_bootstrap();\n  111: \tproc_bootstrap();\n  112  \tthread_bootstrap();\n  113  \thardclock_bootstrap();\n\n/home/chris/school-projects/601-os/os161/kern/proc/proc.c:\n  177   */\n  178  void\n  179: proc_bootstrap(void)\n  180  {\n  181  \tkproc = proc_create(\"[kernel]\");\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n13 matches across 8 files\n\n\nSearching 1113 files for \"proc_bootstrap\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/proc.h:\n   78  \n   79  /* Call once during system startup to allocate data structures. */\n   80: void proc_bootstrap(void);\n   81  \n   82  /* Create a fresh process for use by runprogram(). */\n\n/home/chris/school-projects/601-os/os161/kern/main/main.c:\n  109  \t/* Early initialization. */\n  110  \tram_bootstrap();\n  111: \tproc_bootstrap();\n  112  \tthread_bootstrap();\n  113  \thardclock_bootstrap();\n\n/home/chris/school-projects/601-os/os161/kern/proc/proc.c:\n  177   */\n  178  void\n  179: proc_bootstrap(void)\n  180  {\n  181  \tkproc = proc_create(\"[kernel]\");\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n13 matches across 8 files\n\n\nSearching 1113 files for \"vsnprintf\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/common/libc/printf/snprintf.c:\n   97   */\n   98  int\n   99: vsnprintf(char *buf, size_t len, const char *fmt, va_list ap)\n  100  {\n  101  \tint chars;\n  ...\n  143  \n  144  /*\n  145:  * snprintf - hand off to vsnprintf.\n  146   */\n  147  int\n  ...\n  151  \tva_list ap;\n  152  \tva_start(ap, fmt);\n  153: \tchars = vsnprintf(buf, len, fmt, ap);\n  154  \tva_end(ap);\n  155  \treturn chars;\n\n/home/chris/school-projects/601-os/os161/common/libtest161/test161.c:\n   80  \tva_list ap;\n   81  \tva_start(ap, fmt);\n   82: \tvsnprintf(write_buffer, BUFFER_SIZE, fmt, ap);\n   83  \tva_end(ap);\n   84  \treturn write(STDOUT_FILENO, write_buffer, strlen(write_buffer));\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/stdarg.h:\n   64   */\n   65  void vkprintf(const char *fmt, va_list ap) __PF(1,0);\n   66: int vsnprintf(char *buf, size_t maxlen, const char *fmt, va_list ap) __PF(3,0);\n   67  \n   68  /*\n\n/home/chris/school-projects/601-os/os161/man/libc/__vprintf.html:\n   65  <A HREF=printf.html>printf</A> and printf-like functions.\n   66  Note that it is not portable - application code should use\n   67: <A HREF=snprintf.html>snprintf or vsnprintf</A> when implementing\n   68  their own printf-like functions. This documentation is provided for\n   69  use when extending OS/161 itself.\n\n/home/chris/school-projects/601-os/os161/man/libc/index.html:\n   88  <li> <A HREF=err.html>verr, verrx</A> - print error messages\n   89  <li> <A HREF=printf.html>vprintf</A> - print formatted output\n   90: <li> <A HREF=snprintf.html>vsnprintf</A> - print formatted text to string\n   91  <li> <A HREF=warn.html>vwarn, vwarnx</A> - print warning messages\n   92  <li> <A HREF=warn.html>warn, warnx</A> - print warning messages\n\n/home/chris/school-projects/601-os/os161/man/libc/snprintf.html:\n   55  <br>\n   56  <tt>int</tt><br>\n   57: <tt>vsnprintf(char *</tt><em>buf</em><tt>, size_t </tt><em>buflen</em><tt>,\n   58  const char *</tt><em>format</em><tt>, va_list);</tt><br>\n   59  </p>\n   ..\n   70  \n   71  <p>\n   72: <tt>vsnprintf</tt> is the same as <tt>snprintf</tt>, except that the\n   73  subsequent arguments are presumed to have already been collected using\n   74  the <A HREF=stdarg.html>stdarg</A> facility.\n   ..\n   77  <h3>Return Values</h3>\n   78  <p>\n   79: <tt>snprintf</tt> and <tt>vsnprintf</tt> return the number of\n   80  characters printed.\n   81  </p>\n\n/home/chris/school-projects/601-os/os161/userland/include/stdio.h:\n   55  int vprintf(const char *fmt, __va_list ap);\n   56  int snprintf(char *buf, size_t len, const char *fmt, ...);\n   57: int vsnprintf(char *buf, size_t len, const char *fmt, __va_list ap);\n   58  \n   59  /* Automated testing extensions. */\n\n/home/chris/school-projects/601-os/os161/userland/include/test/test.h:\n   56  \tva_list ap;\n   57  \tva_start(ap, fmt);\n   58: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   59  \tva_end(ap);\n   60  \twrite(STDOUT_FILENO, buf, strlen(buf));\n   ..\n   73  \tva_list ap;\n   74  \tva_start(ap, fmt);\n   75: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   76  \tva_end(ap);\n   77  \twrite(STDOUT_FILENO, buf, strlen(buf));\n   ..\n   87  \tva_list ap;\n   88  \tva_start(ap, fmt);\n   89: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   90  \tva_end(ap);\n   91  \twrite(STDOUT_FILENO, buf, strlen(buf));\n\n/home/chris/school-projects/601-os/os161/userland/sbin/dumpsfs/dumpsfs.c:\n  111  \n  112  \tva_start(ap, valf);\n  113: \tvsnprintf(buf, sizeof(buf), valf, ap);\n  114  \tva_end(ap);\n  115  \tdumpval(desc, buf);\n\n/home/chris/school-projects/601-os/os161/userland/testbin/badcall/report.c:\n   68  \n   69  \tbegin = outbufpos;\n   70: \tvsnprintf(outbuf + outbufpos, sizeof(outbuf) - outbufpos, fmt, ap);\n   71  \toutbufpos = strlen(outbuf);\n   72  \n\n/home/chris/school-projects/601-os/os161/userland/testbin/dirconc/dirconc.c:\n   97  \tva_list ap;\n   98  \tva_start(ap, fmt);\n   99: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n  100  \tva_end(ap);\n  101  \twrite(STDOUT_FILENO, buf, strlen(buf));\n\n/home/chris/school-projects/601-os/os161/userland/testbin/frack/check.c:\n  584  \n  585  \tva_start(ap, fmt);\n  586: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n  587  \tva_end(ap);\n  588  \terrx(1, \"Inconsistency: %s\", buf);\n\n/home/chris/school-projects/601-os/os161/userland/testbin/psort/psort.c:\n  212  \tpos = strlen(buf);\n  213  \n  214: \tvsnprintf(buf+pos, len-pos, fmt, ap);\n  215  \tpos = strlen(buf);\n  216  \n\n/home/chris/school-projects/601-os/os161/userland/testbin/schedpong/usem.c:\n   48  \n   49  \tva_start(ap, namefmt);\n   50: \tvsnprintf(sem->name, sizeof(sem->name), namefmt, ap);\n   51  \tva_end(ap);\n   52  \n\n/home/chris/school-projects/601-os/os161/userland/testbin/usemtest/usemtest.c:\n   76  \n   77  \tva_start(ap, fmt);\n   78: \tvsnprintf(buf, sizeof(buf), fmt, ap);\n   79  \tva_end(ap);\n   80  \n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n31 matches across 20 files\n\n\nSearching 1113 files for \"machdep\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/CMakeLists.txt:\n   65          os161/kern/arch/mips/thread/switchframe.c\n   66          os161/kern/arch/mips/thread/switchframe.h\n   67:         os161/kern/arch/mips/thread/thread_machdep.c\n   68          os161/kern/arch/mips/vm/dumbvm.c\n   69          os161/kern/arch/mips/vm/ram.c\n   70:         os161/kern/arch/sys161/dev/lamebus_machdep.c\n   71          os161/kern/arch/sys161/include/bus.h\n   72          os161/kern/arch/sys161/include/maxcpus.h\n\n/home/chris/school-projects/601-os/notes.txt:\n   56          state\n   57          wait channel name\n   58:         machdep\n   59  \n\n/home/chris/school-projects/601-os/cmake-build-debug/601_os.cbp:\n  269  \t\t\t<Option target=\"601_os\"/>\n  270  \t\t</Unit>\n  271: \t\t<Unit filename=\"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c\">\n  272  \t\t\t<Option target=\"601_os\"/>\n  273  \t\t</Unit>\n  ...\n  278  \t\t\t<Option target=\"601_os\"/>\n  279  \t\t</Unit>\n  280: \t\t<Unit filename=\"/home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c\">\n  281  \t\t\t<Option target=\"601_os\"/>\n  282  \t\t</Unit>\n\n/home/chris/school-projects/601-os/cmake-build-debug/Makefile:\n 1231  .PHONY : os161/kern/arch/mips/thread/switchframe.c.s\n 1232  \n 1233: os161/kern/arch/mips/thread/thread_machdep.o: os161/kern/arch/mips/thread/thread_machdep.c.o\n 1234  \n 1235: .PHONY : os161/kern/arch/mips/thread/thread_machdep.o\n 1236  \n 1237  # target to build an object file\n 1238: os161/kern/arch/mips/thread/thread_machdep.c.o:\n 1239: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\n 1240: .PHONY : os161/kern/arch/mips/thread/thread_machdep.c.o\n 1241  \n 1242: os161/kern/arch/mips/thread/thread_machdep.i: os161/kern/arch/mips/thread/thread_machdep.c.i\n 1243  \n 1244: .PHONY : os161/kern/arch/mips/thread/thread_machdep.i\n 1245  \n 1246  # target to preprocess a source file\n 1247: os161/kern/arch/mips/thread/thread_machdep.c.i:\n 1248: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.i\n 1249: .PHONY : os161/kern/arch/mips/thread/thread_machdep.c.i\n 1250  \n 1251: os161/kern/arch/mips/thread/thread_machdep.s: os161/kern/arch/mips/thread/thread_machdep.c.s\n 1252  \n 1253: .PHONY : os161/kern/arch/mips/thread/thread_machdep.s\n 1254  \n 1255  # target to generate assembly for a file\n 1256: os161/kern/arch/mips/thread/thread_machdep.c.s:\n 1257: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.s\n 1258: .PHONY : os161/kern/arch/mips/thread/thread_machdep.c.s\n 1259  \n 1260  os161/kern/arch/mips/vm/dumbvm.o: os161/kern/arch/mips/vm/dumbvm.c.o\n ....\n 1312  .PHONY : os161/kern/arch/mips/vm/ram.c.s\n 1313  \n 1314: os161/kern/arch/sys161/dev/lamebus_machdep.o: os161/kern/arch/sys161/dev/lamebus_machdep.c.o\n 1315  \n 1316: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.o\n 1317  \n 1318  # target to build an object file\n 1319: os161/kern/arch/sys161/dev/lamebus_machdep.c.o:\n 1320: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\n 1321: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.c.o\n 1322  \n 1323: os161/kern/arch/sys161/dev/lamebus_machdep.i: os161/kern/arch/sys161/dev/lamebus_machdep.c.i\n 1324  \n 1325: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.i\n 1326  \n 1327  # target to preprocess a source file\n 1328: os161/kern/arch/sys161/dev/lamebus_machdep.c.i:\n 1329: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.i\n 1330: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.c.i\n 1331  \n 1332: os161/kern/arch/sys161/dev/lamebus_machdep.s: os161/kern/arch/sys161/dev/lamebus_machdep.c.s\n 1333  \n 1334: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.s\n 1335  \n 1336  # target to generate assembly for a file\n 1337: os161/kern/arch/sys161/dev/lamebus_machdep.c.s:\n 1338: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.s\n 1339: .PHONY : os161/kern/arch/sys161/dev/lamebus_machdep.c.s\n 1340  \n 1341  os161/kern/compile/DUMBVM/autoconf.o: os161/kern/compile/DUMBVM/autoconf.c.o\n ....\n 8302  \t@echo \"... os161/kern/arch/mips/thread/switchframe.i\"\n 8303  \t@echo \"... os161/kern/arch/mips/thread/switchframe.s\"\n 8304: \t@echo \"... os161/kern/arch/mips/thread/thread_machdep.o\"\n 8305: \t@echo \"... os161/kern/arch/mips/thread/thread_machdep.i\"\n 8306: \t@echo \"... os161/kern/arch/mips/thread/thread_machdep.s\"\n 8307  \t@echo \"... os161/kern/arch/mips/vm/dumbvm.o\"\n 8308  \t@echo \"... os161/kern/arch/mips/vm/dumbvm.i\"\n ....\n 8311  \t@echo \"... os161/kern/arch/mips/vm/ram.i\"\n 8312  \t@echo \"... os161/kern/arch/mips/vm/ram.s\"\n 8313: \t@echo \"... os161/kern/arch/sys161/dev/lamebus_machdep.o\"\n 8314: \t@echo \"... os161/kern/arch/sys161/dev/lamebus_machdep.i\"\n 8315: \t@echo \"... os161/kern/arch/sys161/dev/lamebus_machdep.s\"\n 8316  \t@echo \"... os161/kern/compile/DUMBVM/autoconf.o\"\n 8317  \t@echo \"... os161/kern/compile/DUMBVM/autoconf.i\"\n\n/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/DependInfo.cmake:\n   46    \"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/cpu.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o\"\n   47    \"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/switchframe.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o\"\n   48:   \"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\"\n   49    \"/home/chris/school-projects/601-os/os161/kern/arch/mips/vm/dumbvm.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o\"\n   50    \"/home/chris/school-projects/601-os/os161/kern/arch/mips/vm/ram.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o\"\n   51:   \"/home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\"\n   52    \"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/autoconf.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o\"\n   53    \"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/vers.c\" \"/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o\"\n\n/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/build.make:\n 1042  \n 1043  \n 1044: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o: CMakeFiles/601_os.dir/flags.make\n 1045: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o: ../os161/kern/arch/mips/thread/thread_machdep.c\n 1046: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_42) \"Building C object CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\"\n 1047: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o   -c /home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c\n 1048  \n 1049: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.i: cmake_force\n 1050: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green \"Preprocessing C source to CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.i\"\n 1051: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c > CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.i\n 1052  \n 1053: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.s: cmake_force\n 1054: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green \"Compiling C source to assembly CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.s\"\n 1055: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c -o CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.s\n 1056  \n 1057: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.requires:\n 1058  \n 1059: .PHONY : CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.requires\n 1060  \n 1061: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.provides: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.requires\n 1062: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.provides.build\n 1063: .PHONY : CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.provides\n 1064  \n 1065: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.provides.build: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\n 1066  \n 1067  \n ....\n 1114  \n 1115  \n 1116: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o: CMakeFiles/601_os.dir/flags.make\n 1117: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o: ../os161/kern/arch/sys161/dev/lamebus_machdep.c\n 1118: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) \"Building C object CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\"\n 1119: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o   -c /home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c\n 1120  \n 1121: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.i: cmake_force\n 1122: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green \"Preprocessing C source to CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.i\"\n 1123: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c > CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.i\n 1124  \n 1125: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.s: cmake_force\n 1126: \t@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green \"Compiling C source to assembly CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.s\"\n 1127: \t/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c -o CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.s\n 1128  \n 1129: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.requires:\n 1130  \n 1131: .PHONY : CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.requires\n 1132  \n 1133: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.provides: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.requires\n 1134: \t$(MAKE) -f CMakeFiles/601_os.dir/build.make CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.provides.build\n 1135: .PHONY : CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.provides\n 1136  \n 1137: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.provides.build: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\n 1138  \n 1139  \n ....\n 7253  \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o\" \\\n 7254  \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o\" \\\n 7255: \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\" \\\n 7256  \"CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o\" \\\n 7257  \"CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o\" \\\n 7258: \"CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\" \\\n 7259  \"CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o\" \\\n 7260  \"CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o\" \\\n ....\n 7555  601_os: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o\n 7556  601_os: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o\n 7557: 601_os: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\n 7558  601_os: CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o\n 7559  601_os: CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o\n 7560: 601_os: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\n 7561  601_os: CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o\n 7562  601_os: CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o\n ....\n 7863  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o.requires\n 7864  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o.requires\n 7865: CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o.requires\n 7866  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o.requires\n 7867  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o.requires\n 7868: CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o.requires\n 7869  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o.requires\n 7870  CMakeFiles/601_os.dir/requires: CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o.requires\n\n/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/cmake_clean.cmake:\n   41    \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o\"\n   42    \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o\"\n   43:   \"CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o\"\n   44    \"CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o\"\n   45    \"CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o\"\n   46:   \"CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o\"\n   47    \"CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o\"\n   48    \"CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o\"\n\n/home/chris/school-projects/601-os/cmake-build-debug/CMakeFiles/601_os.dir/link.txt:\n    1: /usr/bin/cc -g   CMakeFiles/601_os.dir/os161/common/gcc-millicode/adddi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/anddi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/ashldi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/ashrdi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/cmpdi2.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/divdi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/iordi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/lshldi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/lshrdi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/moddi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/muldi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/negdi2.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/notdi2.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/qdivrem.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/subdi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/ucmpdi2.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/udivdi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/umoddi3.c.o CMakeFiles/601_os.dir/os161/common/gcc-millicode/xordi3.c.o CMakeFiles/601_os.dir/os161/common/libc/printf/__printf.c.o CMakeFiles/601_os.dir/os161/common/libc/printf/snprintf.c.o CMakeFiles/601_os.dir/os161/common/libc/printf/tprintf.c.o CMakeFiles/601_os.dir/os161/common/libc/stdlib/atoi.c.o CMakeFiles/601_os.dir/os161/common/libc/string/bzero.c.o CMakeFiles/601_os.dir/os161/common/libc/string/memcpy.c.o CMakeFiles/601_os.dir/os161/common/libc/string/memmove.c.o CMakeFiles/601_os.dir/os161/common/libc/string/memset.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strcat.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strchr.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strcmp.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strcpy.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strlen.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strrchr.c.o CMakeFiles/601_os.dir/os161/common/libc/string/strtok_r.c.o CMakeFiles/601_os.dir/os161/common/libtest161/secure.c.o CMakeFiles/601_os.dir/os161/common/libtest161/sha256.c.o CMakeFiles/601_os.dir/os161/common/libtest161/test161.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/locore/trap.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/syscall/syscall.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/cpu.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/switchframe.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/thread/thread_machdep.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/dumbvm.c.o CMakeFiles/601_os.dir/os161/kern/arch/mips/vm/ram.c.o CMakeFiles/601_os.dir/os161/kern/arch/sys161/dev/lamebus_machdep.c.o CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/autoconf.c.o CMakeFiles/601_os.dir/os161/kern/compile/DUMBVM/vers.c.o CMakeFiles/601_os.dir/os161/kern/dev/generic/beep.c.o CMakeFiles/601_os.dir/os161/kern/dev/generic/console.c.o CMakeFiles/601_os.dir/os161/kern/dev/generic/random.c.o CMakeFiles/601_os.dir/os161/kern/dev/generic/rtclock.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/beep_ltimer.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/con_lscreen.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/con_lser.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/emu.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/emu_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lamebus.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lhd.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lhd_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lnet.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lnet_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lrandom.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lrandom_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lscreen.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lscreen_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lser.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/lser_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/ltimer.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/ltimer_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/ltrace.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/ltrace_att.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/random_lrandom.c.o CMakeFiles/601_os.dir/os161/kern/dev/lamebus/rtclock_ltimer.c.o CMakeFiles/601_os.dir/os161/kern/fs/semfs/semfs_fsops.c.o CMakeFiles/601_os.dir/os161/kern/fs/semfs/semfs_obj.c.o CMakeFiles/601_os.dir/os161/kern/fs/semfs/semfs_vnops.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_balloc.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_bmap.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_dir.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_fsops.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_inode.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_io.c.o CMakeFiles/601_os.dir/os161/kern/fs/sfs/sfs_vnops.c.o CMakeFiles/601_os.dir/os161/kern/lib/array.c.o CMakeFiles/601_os.dir/os161/kern/lib/bitmap.c.o CMakeFiles/601_os.dir/os161/kern/lib/bswap.c.o CMakeFiles/601_os.dir/os161/kern/lib/kgets.c.o CMakeFiles/601_os.dir/os161/kern/lib/kprintf.c.o CMakeFiles/601_os.dir/os161/kern/lib/misc.c.o CMakeFiles/601_os.dir/os161/kern/lib/time.c.o CMakeFiles/601_os.dir/os161/kern/lib/uio.c.o CMakeFiles/601_os.dir/os161/kern/main/main.c.o CMakeFiles/601_os.dir/os161/kern/main/menu.c.o CMakeFiles/601_os.dir/os161/kern/proc/proc.c.o CMakeFiles/601_os.dir/os161/kern/synchprobs/stoplight.c.o CMakeFiles/601_os.dir/os161/kern/synchprobs/whalemating.c.o CMakeFiles/601_os.dir/os161/kern/syscall/loadelf.c.o CMakeFiles/601_os.dir/os161/kern/syscall/runprogram.c.o CMakeFiles/601_os.dir/os161/kern/syscall/time_syscalls.c.o CMakeFiles/601_os.dir/os161/kern/test/arraytest.c.o CMakeFiles/601_os.dir/os161/kern/test/automationtest.c.o CMakeFiles/601_os.dir/os161/kern/test/bitmaptest.c.o CMakeFiles/601_os.dir/os161/kern/test/fstest.c.o CMakeFiles/601_os.dir/os161/kern/test/hmacunit.c.o CMakeFiles/601_os.dir/os161/kern/test/kmalloctest.c.o CMakeFiles/601_os.dir/os161/kern/test/lib.c.o CMakeFiles/601_os.dir/os161/kern/test/nettest.c.o CMakeFiles/601_os.dir/os161/kern/test/rwtest.c.o CMakeFiles/601_os.dir/os161/kern/test/semunit.c.o CMakeFiles/601_os.dir/os161/kern/test/synchprobs.c.o CMakeFiles/601_os.dir/os161/kern/test/synchtest.c.o CMakeFiles/601_os.dir/os161/kern/test/threadlisttest.c.o CMakeFiles/601_os.dir/os161/kern/test/threadtest.c.o CMakeFiles/601_os.dir/os161/kern/test/tt3.c.o CMakeFiles/601_os.dir/os161/kern/thread/clock.c.o CMakeFiles/601_os.dir/os161/kern/thread/hangman.c.o CMakeFiles/601_os.dir/os161/kern/thread/spinlock.c.o CMakeFiles/601_os.dir/os161/kern/thread/spl.c.o CMakeFiles/601_os.dir/os161/kern/thread/synch.c.o CMakeFiles/601_os.dir/os161/kern/thread/thread.c.o CMakeFiles/601_os.dir/os161/kern/thread/threadlist.c.o CMakeFiles/601_os.dir/os161/kern/vfs/device.c.o CMakeFiles/601_os.dir/os161/kern/vfs/devnull.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vfscwd.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vfsfail.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vfslist.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vfslookup.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vfspath.c.o CMakeFiles/601_os.dir/os161/kern/vfs/vnode.c.o CMakeFiles/601_os.dir/os161/kern/vm/addrspace.c.o CMakeFiles/601_os.dir/os161/kern/vm/copyinout.c.o CMakeFiles/601_os.dir/os161/kern/vm/kmalloc.c.o CMakeFiles/601_os.dir/os161/userland/bin/cat/cat.c.o CMakeFiles/601_os.dir/os161/userland/bin/cp/cp.c.o CMakeFiles/601_os.dir/os161/userland/bin/false/false.c.o CMakeFiles/601_os.dir/os161/userland/bin/ln/ln.c.o CMakeFiles/601_os.dir/os161/userland/bin/ls/ls.c.o CMakeFiles/601_os.dir/os161/userland/bin/mkdir/mkdir.c.o CMakeFiles/601_os.dir/os161/userland/bin/mv/mv.c.o CMakeFiles/601_os.dir/os161/userland/bin/pwd/pwd.c.o CMakeFiles/601_os.dir/os161/userland/bin/rm/rm.c.o CMakeFiles/601_os.dir/os161/userland/bin/rmdir/rmdir.c.o CMakeFiles/601_os.dir/os161/userland/bin/sh/sh.c.o CMakeFiles/601_os.dir/os161/userland/bin/sync/sync.c.o CMakeFiles/601_os.dir/os161/userland/bin/tac/tac.c.o CMakeFiles/601_os.dir/os161/userland/bin/true/true.c.o CMakeFiles/601_os.dir/os161/userland/lib/hostcompat/err.c.o CMakeFiles/601_os.dir/os161/userland/lib/hostcompat/hostcompat.c.o CMakeFiles/601_os.dir/os161/userland/lib/hostcompat/ntohll.c.o CMakeFiles/601_os.dir/os161/userland/lib/hostcompat/time.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdio/__puts.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdio/getchar.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdio/printf.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdio/putchar.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdio/puts.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/abort.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/exit.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/getenv.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/malloc.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/qsort.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/random.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/stdlib/system.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/string/memcmp.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/string/strerror.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/string/strtok.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/time/time.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/unix/__assert.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/unix/err.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/unix/errno.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/unix/execvp.c.o CMakeFiles/601_os.dir/os161/userland/lib/libc/unix/getcwd.c.o CMakeFiles/601_os.dir/os161/userland/lib/libtest/quint.c.o CMakeFiles/601_os.dir/os161/userland/lib/libtest/triple.c.o CMakeFiles/601_os.dir/os161/userland/sbin/dumpsfs/dumpsfs.c.o CMakeFiles/601_os.dir/os161/userland/sbin/halt/halt.c.o CMakeFiles/601_os.dir/os161/userland/sbin/mksfs/disk.c.o CMakeFiles/601_os.dir/os161/userland/sbin/mksfs/mksfs.c.o CMakeFiles/601_os.dir/os161/userland/sbin/mksfs/support.c.o CMakeFiles/601_os.dir/os161/userland/sbin/poweroff/poweroff.c.o CMakeFiles/601_os.dir/os161/userland/sbin/reboot/reboot.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/freemap.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/inode.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/main.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/pass1.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/pass2.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/sb.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/sfs.c.o CMakeFiles/601_os.dir/os161/userland/sbin/sfsck/utils.c.o CMakeFiles/601_os.dir/os161/userland/testbin/add/add.c.o CMakeFiles/601_os.dir/os161/userland/testbin/argtest/argtest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_chdir.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_close.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_dup2.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_execv.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_fsync.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_ftruncate.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_getcwd.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_getdirentry.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_ioctl.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_link.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_lseek.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_mkdir.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_open.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_pipe.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_read.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_readlink.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_reboot.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_remove.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_rename.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_rmdir.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_sbrk.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_stat.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_symlink.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_time.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_waitpid.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/bad_write.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/common_buf.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/common_fds.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/common_path.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/driver.c.o CMakeFiles/601_os.dir/os161/userland/testbin/badcall/report.c.o CMakeFiles/601_os.dir/os161/userland/testbin/bigexec/bigexec.c.o CMakeFiles/601_os.dir/os161/userland/testbin/bigfile/bigfile.c.o CMakeFiles/601_os.dir/os161/userland/testbin/bigfork/bigfork.c.o CMakeFiles/601_os.dir/os161/userland/testbin/bigseek/bigseek.c.o CMakeFiles/601_os.dir/os161/userland/testbin/bloat/bloat.c.o CMakeFiles/601_os.dir/os161/userland/testbin/closetest/closetest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/conman/conman.c.o CMakeFiles/601_os.dir/os161/userland/testbin/consoletest/consoletest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/crash/crash.c.o CMakeFiles/601_os.dir/os161/userland/testbin/ctest/ctest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/dirconc/dirconc.c.o CMakeFiles/601_os.dir/os161/userland/testbin/dirseek/dirseek.c.o CMakeFiles/601_os.dir/os161/userland/testbin/dirtest/dirtest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/f_test/f_read.c.o CMakeFiles/601_os.dir/os161/userland/testbin/f_test/f_test.c.o CMakeFiles/601_os.dir/os161/userland/testbin/f_test/f_write.c.o CMakeFiles/601_os.dir/os161/userland/testbin/factorial/factorial.c.o CMakeFiles/601_os.dir/os161/userland/testbin/farm/farm.c.o CMakeFiles/601_os.dir/os161/userland/testbin/faulter/faulter.c.o CMakeFiles/601_os.dir/os161/userland/testbin/fileonlytest/fileonlytest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/filetest/filetest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/forkbomb/forkbomb.c.o CMakeFiles/601_os.dir/os161/userland/testbin/forktest/forktest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/check.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/data.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/do.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/main.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/name.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/ops.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/pool.c.o CMakeFiles/601_os.dir/os161/userland/testbin/frack/workloads.c.o CMakeFiles/601_os.dir/os161/userland/testbin/guzzle/guzzle.c.o CMakeFiles/601_os.dir/os161/userland/testbin/hash/hash.c.o CMakeFiles/601_os.dir/os161/userland/testbin/hog/hog.c.o CMakeFiles/601_os.dir/os161/userland/testbin/huge/huge.c.o CMakeFiles/601_os.dir/os161/userland/testbin/kitchen/kitchen.c.o CMakeFiles/601_os.dir/os161/userland/testbin/malloctest/malloctest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/matmult/matmult-orig.c.o CMakeFiles/601_os.dir/os161/userland/testbin/matmult/matmult.c.o CMakeFiles/601_os.dir/os161/userland/testbin/multiexec/multiexec.c.o CMakeFiles/601_os.dir/os161/userland/testbin/opentest/opentest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/palin/palin.c.o CMakeFiles/601_os.dir/os161/userland/testbin/parallelvm/parallelvm.c.o CMakeFiles/601_os.dir/os161/userland/testbin/poisondisk/poisondisk.c.o CMakeFiles/601_os.dir/os161/userland/testbin/psort/psort.c.o CMakeFiles/601_os.dir/os161/userland/testbin/quinthuge/quinthuge.c.o CMakeFiles/601_os.dir/os161/userland/testbin/quintmat/quintmat.c.o CMakeFiles/601_os.dir/os161/userland/testbin/quintsort/quintsort.c.o CMakeFiles/601_os.dir/os161/userland/testbin/randcall/main.c.o CMakeFiles/601_os.dir/os161/userland/testbin/readwritetest/readwritetest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/redirect/redirect.c.o CMakeFiles/601_os.dir/os161/userland/testbin/rmdirtest/rmdirtest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/rmtest/rmtest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/sbrktest/sbrktest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/grind.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/main.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/pong.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/results.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/think.c.o CMakeFiles/601_os.dir/os161/userland/testbin/schedpong/usem.c.o CMakeFiles/601_os.dir/os161/userland/testbin/shelltest/shelltest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/shll/shll.c.o CMakeFiles/601_os.dir/os161/userland/testbin/sink/sink.c.o CMakeFiles/601_os.dir/os161/userland/testbin/sort/sort.c.o CMakeFiles/601_os.dir/os161/userland/testbin/sparsefile/sparsefile.c.o CMakeFiles/601_os.dir/os161/userland/testbin/spinner/spinner.c.o CMakeFiles/601_os.dir/os161/userland/testbin/stacktest/stacktest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/sty/sty.c.o CMakeFiles/601_os.dir/os161/userland/testbin/tail/tail.c.o CMakeFiles/601_os.dir/os161/userland/testbin/tictac/tictac.c.o CMakeFiles/601_os.dir/os161/userland/testbin/triplehuge/triplehuge.c.o CMakeFiles/601_os.dir/os161/userland/testbin/triplemat/triplemat.c.o CMakeFiles/601_os.dir/os161/userland/testbin/triplesort/triplesort.c.o CMakeFiles/601_os.dir/os161/userland/testbin/usemtest/usemtest.c.o CMakeFiles/601_os.dir/os161/userland/testbin/userthreads/userthreads.c.o CMakeFiles/601_os.dir/os161/userland/testbin/waiter/waiter.c.o CMakeFiles/601_os.dir/os161/userland/testbin/zero/zero.c.o  -o 601_os \n    2  \n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/conf/conf.arch:\n   50  machine mips file    arch/mips/thread/switch.S\t# Thread context switch\n   51  machine mips file    arch/mips/thread/switchframe.c\t# New thread prep\n   52: machine mips file    arch/mips/thread/thread_machdep.c\t# MD thread code\n   53  machine mips file    arch/mips/thread/threadstart.S\t# New thread startup\n   54  \n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/include/thread.h:\n   40  typedef void (*badfaultfunc_t)(void);\n   41  \n   42: struct thread_machdep {\n   43  \tbadfaultfunc_t tm_badfaultfunc;\t/* fault hook used by copyin/out */\n   44  \tjmp_buf tm_copyjmp;\t\t/* longjmp area used by copyin/out */\n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/locore/trap.c:\n  299  \n  300  \tif (current_thread != NULL &&\n  301: \t    current_thread->t_machdep.tm_badfaultfunc != NULL) {\n  302: \t\ttf->tf_epc = (vaddr_t) current_thread->t_machdep.tm_badfaultfunc;\n  303  \t\tgoto done;\n  304  \t}\n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/cpu.c:\n   58   * The values in the current cpu's slots in these arrays are updated\n   59   * with the current thread's information in trap.c before heading to\n   60:  * userlevel, as well as being initialized in cpu_machdep_init below.\n   61   * This means that (unless something really horrible happens) on entry\n   62   * to the kernel, and when a new CPU starts up in cpu_start_secondary,\n   ..\n   74   */\n   75  void\n   76: cpu_machdep_init(struct cpu *c)\n   77  {\n   78  \tvaddr_t stackpointer;\n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/thread_machdep.c:\n   29  \n   30  /*\n   31:  * Functions for handling struct thread_machdep.\n   32   */\n   33  \n   ..\n   38  \n   39  void\n   40: thread_machdep_init(struct thread_machdep *tm)\n   41  {\n   42  \ttm->tm_badfaultfunc = NULL;\n   ..\n   44  \n   45  void\n   46: thread_machdep_cleanup(struct thread_machdep *tm)\n   47  {\n   48  \tKASSERT(tm->tm_badfaultfunc == NULL);\n\n/home/chris/school-projects/601-os/os161/kern/arch/sys161/conf/conf.arch:\n   26  #\n   27  \n   28: platform sys161 file    arch/sys161/dev/lamebus_machdep.c\n   29  include dev/lamebus/conf.lamebus\n   30  \n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/.depend:\n  785  switch.o: ../../arch/mips/thread/switch.S \\\n  786   includelinks/kern/mips/regdefs.h\n  787: thread_machdep.o: ../../arch/mips/thread/thread_machdep.c \\\n  788   ../../include/types.h ../../include/kern/types.h \\\n  789   includelinks/kern/machine/types.h includelinks/machine/types.h \\\n  ...\n  946  tlb-mips161.o: ../../arch/mips/vm/tlb-mips161.S \\\n  947   includelinks/kern/mips/regdefs.h includelinks/mips/specialreg.h\n  948: lamebus_machdep.o: ../../arch/sys161/dev/lamebus_machdep.c \\\n  949   ../../include/types.h ../../include/kern/types.h \\\n  950   includelinks/kern/machine/types.h includelinks/machine/types.h \\\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/.depend.lamebus_machdep.c:\n    1: lamebus_machdep.o: ../../arch/sys161/dev/lamebus_machdep.c \\\n    2   ../../include/types.h ../../include/kern/types.h \\\n    3   includelinks/kern/machine/types.h includelinks/machine/types.h \\\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/.depend.thread_machdep.c:\n    1: thread_machdep.o: ../../arch/mips/thread/thread_machdep.c \\\n    2   ../../include/types.h ../../include/kern/types.h \\\n    3   includelinks/kern/machine/types.h includelinks/machine/types.h \\\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/files.mk:\n   64  SRCS.MACHINE.mips+=$(KTOP)/arch/mips/thread/switchframe.c\n   65  SRCS.MACHINE.mips+=$(KTOP)/arch/mips/thread/switch.S\n   66: SRCS.MACHINE.mips+=$(KTOP)/arch/mips/thread/thread_machdep.c\n   67  SRCS.MACHINE.mips+=$(KTOP)/arch/mips/thread/threadstart.S\n   68  SRCS.MACHINE.mips+=$(KTOP)/arch/mips/vm/dumbvm.c\n   ..\n   95  SRCS.PLATFORM.sys161+=$(KTOP)/arch/mips/locore/exception-mips1.S\n   96  SRCS.PLATFORM.sys161+=$(KTOP)/arch/mips/vm/tlb-mips161.S\n   97: SRCS.PLATFORM.sys161+=$(KTOP)/arch/sys161/dev/lamebus_machdep.c\n   98  SRCS.PLATFORM.sys161+=$(KTOP)/arch/sys161/main/start.S\n   99  SRCS+=$(KTOP)/syscall/loadelf.c\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/machine/thread.h:\n   40  typedef void (*badfaultfunc_t)(void);\n   41  \n   42: struct thread_machdep {\n   43  \tbadfaultfunc_t tm_badfaultfunc;\t/* fault hook used by copyin/out */\n   44  \tjmp_buf tm_copyjmp;\t\t/* longjmp area used by copyin/out */\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/mips/thread.h:\n   40  typedef void (*badfaultfunc_t)(void);\n   41  \n   42: struct thread_machdep {\n   43  \tbadfaultfunc_t tm_badfaultfunc;\t/* fault hook used by copyin/out */\n   44  \tjmp_buf tm_copyjmp;\t\t/* longjmp area used by copyin/out */\n\n/home/chris/school-projects/601-os/os161/kern/include/cpu.h:\n  102   * or bus-specific code that looks for secondary CPUs.\n  103   *\n  104:  * cpu_create calls cpu_machdep_init.\n  105   *\n  106   * cpu_start_secondary is the platform-dependent assembly language\n  ...\n  110   */\n  111  struct cpu *cpu_create(unsigned hardware_number);\n  112: void cpu_machdep_init(struct cpu *);\n  113  /*ASMLINKAGE*/ void cpu_start_secondary(void);\n  114  void cpu_hatch(unsigned software_number);\n\n/home/chris/school-projects/601-os/os161/kern/include/thread.h:\n   88  \t * Thread subsystem internal fields.\n   89  \t */\n   90: \tstruct thread_machdep t_machdep; /* Any machine-dependent goo */\n   91  \tstruct threadlistnode t_listnode; /* Link for run/sleep/zombie lists */\n   92  \tvoid *t_stack;\t\t\t/* Kernel-level stack */\n\n/home/chris/school-projects/601-os/os161/kern/include/threadprivate.h:\n   32  \n   33  struct thread;\t\t/* from <thread.h> */\n   34: struct thread_machdep;\t/* from <machine/thread.h> */\n   35  struct switchframe;\t/* from <machine/switchframe.h> */\n   36  \n   ..\n   57  \n   58  /* Initialize or clean up the machine-dependent portion of struct thread */\n   59: void thread_machdep_init(struct thread_machdep *tm);\n   60: void thread_machdep_cleanup(struct thread_machdep *tm);\n   61  \n   62  /*\n\n/home/chris/school-projects/601-os/os161/kern/thread/thread.c:\n  140  \n  141  \t/* Thread subsystem fields */\n  142: \tthread_machdep_init(&thread->t_machdep);\n  143  \tthreadlistnode_init(&thread->t_listnode, thread);\n  144  \tthread->t_stack = NULL;\n  ...\n  253  \t}\n  254  \n  255: \tcpu_machdep_init(c);\n  256  \n  257  \treturn c;\n  ...\n  282  \t}\n  283  \tthreadlistnode_cleanup(&thread->t_listnode);\n  284: \tthread_machdep_cleanup(&thread->t_machdep);\n  285  \n  286  \t/* sheer paranoia */\n\n/home/chris/school-projects/601-os/os161/kern/vm/copyinout.c:\n   69   *\n   70   * (5) It assumes that the machine-dependent trap logic provides and\n   71:  * honors a tm_badfaultfunc field in the thread_machdep structure.\n   72   * This feature works as follows: if an otherwise fatal fault occurs\n   73   * in kernel mode, and tm_badfaultfunc is set, execution resumes in\n   ..\n   83   *\n   84   * To make use of this code, in addition to tm_badfaultfunc the\n   85:  * thread_machdep structure should contain a jmp_buf called\n   86   * \"tm_copyjmp\".\n   87   */\n   ..\n   90   * Recovery function. If a fatal fault occurs during copyin, copyout,\n   91   * copyinstr, or copyoutstr, execution resumes here. (This behavior is\n   92:  * caused by setting t_machdep.tm_badfaultfunc and is implemented in\n   93   * machine-dependent code.)\n   94   *\n   ..\n  100  copyfail(void)\n  101  {\n  102: \tlongjmp(current_thread->t_machdep.tm_copyjmp, 1);\n  103  }\n  104  \n  ...\n  165  \t}\n  166  \n  167: \tcurrent_thread->t_machdep.tm_badfaultfunc = copyfail;\n  168  \n  169: \tresult = setjmp(current_thread->t_machdep.tm_copyjmp);\n  170  \tif (result) {\n  171: \t\tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  172  \t\treturn EFAULT;\n  173  \t}\n  ...\n  175  \tmemcpy(dest, (const void *)usersrc, len);\n  176  \n  177: \tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  178  \treturn 0;\n  179  }\n  ...\n  201  \t}\n  202  \n  203: \tcurrent_thread->t_machdep.tm_badfaultfunc = copyfail;\n  204  \n  205: \tresult = setjmp(current_thread->t_machdep.tm_copyjmp);\n  206  \tif (result) {\n  207: \t\tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  208  \t\treturn EFAULT;\n  209  \t}\n  ...\n  211  \tmemcpy((void *)userdest, src, len);\n  212  \n  213: \tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  214  \treturn 0;\n  215  }\n  ...\n  274  \t}\n  275  \n  276: \tcurrent_thread->t_machdep.tm_badfaultfunc = copyfail;\n  277  \n  278: \tresult = setjmp(current_thread->t_machdep.tm_copyjmp);\n  279  \tif (result) {\n  280: \t\tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  281  \t\treturn EFAULT;\n  282  \t}\n  ...\n  284  \tresult = copystr(dest, (const char *)usersrc, len, stoplen, actual);\n  285  \n  286: \tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  287  \treturn result;\n  288  }\n  ...\n  307  \t}\n  308  \n  309: \tcurrent_thread->t_machdep.tm_badfaultfunc = copyfail;\n  310  \n  311: \tresult = setjmp(current_thread->t_machdep.tm_copyjmp);\n  312  \tif (result) {\n  313: \t\tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  314  \t\treturn EFAULT;\n  315  \t}\n  ...\n  317  \tresult = copystr((char *)userdest, src, len, stoplen, actual);\n  318  \n  319: \tcurrent_thread->t_machdep.tm_badfaultfunc = NULL;\n  320  \treturn result;\n  321  }\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n253 matches across 30 files\n\n\nSearching 1113 files for \"vm_bootstrap\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/arch/mips/vm/dumbvm.c:\n   66  \n   67  void\n   68: vm_bootstrap(void)\n   69  {\n   70  \t/* Do nothing. */\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/vm.h:\n   47  \n   48  /* Initialization function */\n   49: void vm_bootstrap(void);\n   50  \n   51  /* Fault handling function called by trap code */\n\n/home/chris/school-projects/601-os/os161/kern/main/main.c:\n  126  \n  127  \t/* Late phase of initialization. */\n  128: \tvm_bootstrap();\n  129  \tkprintf_bootstrap();\n  130  \tthread_start_cpus();\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n13 matches across 8 files\n\n\nSearching 1113 files for \"thread_fork\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/CHANGES:\n 1379  \n 1380  20020305 dholland in base\n 1381:    - Fix spl leak on thread_fork failure.\n 1382  \n 1383  20020305 dholland in base\n ....\n 1519  \n 1520  20020102 dholland in base\n 1521:    - Change thread_fork so it can return errors.\n 1522  \n 1523  20020102 dholland in base\n ....\n 1779  \n 1780  20010611 dholland in base\n 1781:    - Fix memory leak on error in thread_fork.\n 1782  \n 1783  20010611 dholland in base\n ....\n 1944  \n 1945  20010207 dholland in base\n 1946:    - Check all calls to thread_fork for failure.\n 1947  \n 1948  20010206 dholland in base\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/thread.h:\n  152   * disappear at any time without notice.\n  153   */\n  154: int thread_fork(const char *name, struct proc *proc,\n  155                  void (*func)(void *, unsigned long),\n  156                  void *data1, unsigned long data2);\n\n/home/chris/school-projects/601-os/os161/kern/main/menu.c:\n  130  \ttc = thread_count;\n  131  \n  132: \tresult = thread_fork(args[0] /* thread name */,\n  133  \t\t\tproc /* new process */,\n  134  \t\t\tcmd_progthread /* thread function */,\n  135  \t\t\targs /* thread arg */, nargs /* thread arg */);\n  136  \tif (result) {\n  137: \t\tkprintf(\"thread_fork failed: %s\\n\", strerror(result));\n  138  \t\tproc_destroy(proc);\n  139  \t\treturn result;\n  ...\n  330  \t}\n  331  \n  332: \tresult = thread_fork(args[0] /* thread name */,\n  333  \t\t\tNULL /* kernel thread */,\n  334  \t\t\tcmd_deadlockthread /* thread function */,\n  335  \t\t\t&dl /* thread arg */, 0 /* thread arg */);\n  336  \tif (result) {\n  337: \t\tkprintf(\"thread_fork failed: %s\\n\", strerror(result));\n  338  \t\tlock_release(dl.lock1);\n  339  \t\tlock_destroy(dl.lock2);\n\n/home/chris/school-projects/601-os/os161/kern/test/automationtest.c:\n   95  \tlock_acquire(deadlock_locks[0]);\t\n   96  \n   97: \tresult = thread_fork(\"dltest\", NULL, dltestthread, NULL, (unsigned long)0);\n   98  \tif (result) {\n   99: \t\tpanic(\"dltest: thread_fork failed: %s\\n\", strerror(result));\n  100  \t}\n  101  \n  ...\n  164  \n  165  \tfor (i=1; i<16; i++) {\n  166: \t\tresult = thread_fork(\"ll16testthread\", NULL, ll16testthread, NULL, (unsigned long)i);\n  167  \t\tif (result) {\n  168: \t\t\tpanic(\"ll16test: thread_fork failed: %s\\n\", strerror(result));\n  169  \t\t}\n  170  \t}\n\n/home/chris/school-projects/601-os/os161/kern/test/fstest.c:\n  327  \n  328  \tfor (i=0; i<NTHREADS; i++) {\n  329: \t\terr = thread_fork(\"readstress\", NULL,\n  330  \t\t\t\t  readstress_thread, (char *)filesys, i);\n  331  \t\tif (err) {\n  332: \t\t\tpanic(\"readstress: thread_fork failed: %s\\n\",\n  333  \t\t\t      strerror(err));\n  334  \t\t}\n  ...\n  389  \n  390  \tfor (i=0; i<NTHREADS; i++) {\n  391: \t\terr = thread_fork(\"writestress\", NULL,\n  392  \t\t\t\t  writestress_thread, (char *)filesys, i);\n  393  \t\tif (err) {\n  394: \t\t\tpanic(\"thread_fork failed %s\\n\", strerror(err));\n  395  \t\t}\n  396  \t}\n  ...\n  443  \n  444  \tfor (i=0; i<NTHREADS; i++) {\n  445: \t\terr = thread_fork(\"writestress2\", NULL,\n  446  \t\t\t\t  writestress2_thread, (char *)filesys, i);\n  447  \t\tif (err) {\n  448: \t\t\tpanic(\"writestress2: thread_fork failed: %s\\n\",\n  449  \t\t\t      strerror(err));\n  450  \t\t}\n  ...\n  516  \n  517  \tfor (i=0; i<NTHREADS; i++) {\n  518: \t\terr = thread_fork(\"longstress\", NULL,\n  519  \t\t\t\t  longstress_thread, (char *)filesys, i);\n  520  \t\tif (err) {\n  521: \t\t\tpanic(\"longstress: thread_fork failed %s\\n\",\n  522  \t\t\t      strerror(err));\n  523  \t\t}\n  ...\n  658  \n  659  \tfor (i=0; i<NTHREADS; i++) {\n  660: \t\terr = thread_fork(\"createstress\", NULL,\n  661  \t\t\t\t  createstress_thread, (char *)filesys, i);\n  662  \t\tif (err) {\n  663: \t\t\tpanic(\"createstress: thread_fork failed %s\\n\",\n  664  \t\t\t      strerror(err));\n  665  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/kmalloctest.c:\n  142  \n  143  \tfor (i=0; i<NTHREADS; i++) {\n  144: \t\tresult = thread_fork(\"kmallocstress\", NULL,\n  145  \t\t\t\t     kmallocthread, sem, i);\n  146  \t\tif (result) {\n  147: \t\t\tpanic(\"kmallocstress: thread_fork failed: %s\\n\",\n  148  \t\t\t      strerror(result));\n  149  \t\t}\n  ...\n  403  \n  404  \tfor (i=0; i<nthreads; i++) {\n  405: \t\tresult = thread_fork(\"kmalloctest4\", NULL,\n  406  \t\t\t\t     kmalloctest4thread, sem, i);\n  407  \t\tif (result) {\n  408: \t\t\tpanic(\"kmallocstress: thread_fork failed: %s\\n\",\n  409  \t\t\t      strerror(result));\n  410  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/semunit.c:\n  116  \tspinlock_release(&waiters_lock);\n  117  \n  118: \tresult = thread_fork(\"semunit waiter\", NULL, waiter, sem, 0);\n  119  \tif (result) {\n  120: \t\tpanic(\"semunit: thread_fork failed\\n\");\n  121  \t}\n  122  \tkprintf(\"Sleeping for waiter to run\\n\");\n  ...\n  649  \n  650  \tsem = makesem(0);\n  651: \tresult = thread_fork(\"semu17_sub\", NULL, semu17_sub, sem, 0);\n  652  \tif (result) {\n  653: \t\tpanic(\"semu17: whoops: thread_fork failed\\n\");\n  654  \t}\n  655  \tkprintf(\"Waiting for subthread...\\n\");\n  ...\n  744  \n  745  \tsem = makesem(0);\n  746: \tresult = thread_fork(\"semu19_sub\", NULL, semu19_sub, sem, 0);\n  747  \tif (result) {\n  748: \t\tpanic(\"semu19: whoops: thread_fork failed\\n\");\n  749  \t}\n  750  \n\n/home/chris/school-projects/601-os/os161/kern/test/synchprobs.c:\n  288  \t\t\t\tcase 0:\n  289  \t\t\t\t\tsnprintf(name, sizeof(name), \"Male Whale Thread %d\", index);\n  290: \t\t\t\t\terr = thread_fork(name, NULL, male_wrapper, NULL, index);\n  291  \t\t\t\t\tbreak;\n  292  \t\t\t\tcase 1:\n  293  \t\t\t\t\tsnprintf(name, sizeof(name), \"Female Whale Thread %d\", index);\n  294: \t\t\t\t\terr = thread_fork(name, NULL, female_wrapper, NULL, index);\n  295  \t\t\t\t\tbreak;\n  296  \t\t\t}\n  297  \t\t\ttotal_count += 1;\n  298  \t\t\tif (err) {\n  299: \t\t\t\tpanic(\"sp1: thread_fork failed: (%s)\\n\", strerror(err));\n  300  \t\t\t}\n  301  \t\t}\n  ...\n  330  \t\twhale_threads[index] = NULL;\n  331  \t\tsnprintf(name, sizeof(name), \"Matchmaker Whale Thread %d\", index);\n  332: \t\terr = thread_fork(name, NULL, matchmaker_wrapper, NULL, index);\n  333  \t\tif (err) {\n  334: \t\t\tpanic(\"sp1: thread_fork failed: (%s)\\n\", strerror(err));\n  335  \t\t}\n  336  \t\ttotal_count++;\n  ...\n  643  \t\tswitch (turn) {\n  644  \t\t\tcase GO_STRAIGHT:\n  645: \t\t\terr = thread_fork(name, NULL, gostraight_wrapper, (void *)i, direction);\n  646  \t\t\trequired_quadrant += 2;\n  647  \t\t\tbreak;\n  648  \t\t\tcase TURN_LEFT:\n  649: \t\t\terr = thread_fork(name, NULL, turnleft_wrapper, (void *)i, direction);\n  650  \t\t\trequired_quadrant += 3;\n  651  \t\t\tbreak;\n  652  \t\t\tcase TURN_RIGHT:\n  653: \t\t\terr = thread_fork(name, NULL, turnright_wrapper, (void *)i, direction);\n  654  \t\t\trequired_quadrant += 1;\n  655  \t\t\tbreak;\n  656  \t\t}\n  657  \t\tif (err) {\n  658: \t\t\tpanic(\"sp2: thread_fork failed: (%s)\\n\", strerror(err));\n  659  \t\t}\n  660  \t}\n\n/home/chris/school-projects/601-os/os161/kern/test/synchtest.c:\n  142  \tfor (i=0; i<NTHREADS; i++) {\n  143  \t\tkprintf_t(\".\");\n  144: \t\tresult = thread_fork(\"semtest\", NULL, semtestthread, NULL, i);\n  145  \t\tif (result) {\n  146: \t\t\tpanic(\"sem1: thread_fork failed: %s\\n\",\n  147  \t\t\t      strerror(result));\n  148  \t\t}\n  ...\n  278  \tfor (i=0; i<NTHREADS; i++) {\n  279  \t\tkprintf_t(\".\");\n  280: \t\tresult = thread_fork(\"synchtest\", NULL, locktestthread, NULL, i);\n  281  \t\tif (result) {\n  282: \t\t\tpanic(\"lt1: thread_fork failed: %s\\n\", strerror(result));\n  283  \t\t}\n  284  \t}\n  ...\n  400    }\n  401  \n  402: \tresult = thread_fork(\"lt4\", NULL, locktestacquirer, NULL, 0);\n  403  \tif (result) {\n  404: \t\tpanic(\"lt4: thread_fork failed: %s\\n\", strerror(result));\n  405  \t}\n  406  \n  ...\n  441    }\n  442  \n  443: \tresult = thread_fork(\"lt5\", NULL, locktestacquirer, NULL, 0);\n  444  \tif (result) {\n  445: \t\tpanic(\"lt5: thread_fork failed: %s\\n\", strerror(result));\n  446  \t}\n  447  \n  ...\n  551  \tfor (i=0; i<NTHREADS; i++) {\n  552  \t\tkprintf_t(\".\");\n  553: \t\tresult = thread_fork(\"cvt1\", NULL, cvtestthread, NULL, (long unsigned) i);\n  554  \t\tif (result) {\n  555: \t\t\tpanic(\"cvt1: thread_fork failed: %s\\n\", strerror(result));\n  556  \t\t}\n  557  \t}\n  ...\n  684  \ttest_status = TEST161_SUCCESS;\n  685  \n  686: \tresult = thread_fork(\"cvt2\", NULL, sleepthread, NULL, 0);\n  687  \tif (result) {\n  688: \t\tpanic(\"cvt2: thread_fork failed\\n\");\n  689  \t}\n  690: \tresult = thread_fork(\"cvt2\", NULL, wakethread, NULL, 0);\n  691  \tif (result) {\n  692: \t\tpanic(\"cvt2: thread_fork failed\\n\");\n  693  \t}\n  694  \tP(exitsem);\n  ...\n  852  \tlock_acquire(testlock2);\n  853  \n  854: \tresult = thread_fork(\"cvt5\", NULL, sleeperthread, NULL, 0);\n  855  \tif (result) {\n  856: \t\tpanic(\"cvt5: thread_fork failed\\n\");\n  857  \t}\n  858: \tresult = thread_fork(\"cvt5\", NULL, wakerthread, NULL, 0);\n  859  \tif (result) {\n  860: \t\tpanic(\"cvt5: thread_fork failed\\n\");\n  861  \t}\n  862  \n\n/home/chris/school-projects/601-os/os161/kern/test/threadtest.c:\n  103  \tfor (i=0; i<NTHREADS; i++) {\n  104  \t\tsnprintf(name, sizeof(name), \"threadtest%d\", i);\n  105: \t\tresult = thread_fork(name, NULL,\n  106  \t\t\t\t     doloud ? loudthread : quietthread,\n  107  \t\t\t\t     NULL, i);\n  108  \t\tif (result) {\n  109: \t\t\tpanic(\"threadtest: thread_fork failed %s)\\n\",\n  110  \t\t\t      strerror(result));\n  111  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/tt3.c:\n  148  \tfor (i=0; i<howmany; i++) {\n  149  \t\tsnprintf(name, sizeof(name), \"sleepalot%d\", i);\n  150: \t\tresult = thread_fork(name, NULL, sleepalot_thread, NULL, i);\n  151  \t\tif (result) {\n  152: \t\t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  153  \t\t}\n  154  \t}\n  155: \tresult = thread_fork(\"waker\", NULL, waker_thread, NULL, 0);\n  156  \tif (result) {\n  157: \t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  158  \t}\n  159  }\n  ...\n  225  \tfor (i=0; i<howmany; i++) {\n  226  \t\tsnprintf(name, sizeof(name), \"compute%d\", i);\n  227: \t\tresult = thread_fork(name, NULL, compute_thread, NULL, i);\n  228  \t\tif (result) {\n  229: \t\t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  230  \t\t}\n  231  \t}\n\n/home/chris/school-projects/601-os/os161/kern/thread/thread.c:\n  506   */\n  507  int\n  508: thread_fork(const char *name,\n  509  \t    struct proc *proc,\n  510  \t    void (*entrypoint)(void *data1, unsigned long data2),\n  ...\n  748  /*\n  749   * This function is where new threads start running. The arguments\n  750:  * ENTRYPOINT, DATA1, and DATA2 are passed through from thread_fork.\n  751   *\n  752   * Because new code comes here from inside the middle of\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/root/.src/CHANGES:\n 1379  \n 1380  20020305 dholland in base\n 1381:    - Fix spl leak on thread_fork failure.\n 1382  \n 1383  20020305 dholland in base\n ....\n 1519  \n 1520  20020102 dholland in base\n 1521:    - Change thread_fork so it can return errors.\n 1522  \n 1523  20020102 dholland in base\n ....\n 1779  \n 1780  20010611 dholland in base\n 1781:    - Fix memory leak on error in thread_fork.\n 1782  \n 1783  20010611 dholland in base\n ....\n 1944  \n 1945  20010207 dholland in base\n 1946:    - Check all calls to thread_fork for failure.\n 1947  \n 1948  20010206 dholland in base\n\n174 matches across 18 files\n\n\nSearching 1113 files for \"thread_fork\" (regex, case sensitive)\n\n/home/chris/school-projects/601-os/os161/CHANGES:\n 1379  \n 1380  20020305 dholland in base\n 1381:    - Fix spl leak on thread_fork failure.\n 1382  \n 1383  20020305 dholland in base\n ....\n 1519  \n 1520  20020102 dholland in base\n 1521:    - Change thread_fork so it can return errors.\n 1522  \n 1523  20020102 dholland in base\n ....\n 1779  \n 1780  20010611 dholland in base\n 1781:    - Fix memory leak on error in thread_fork.\n 1782  \n 1783  20010611 dholland in base\n ....\n 1944  \n 1945  20010207 dholland in base\n 1946:    - Check all calls to thread_fork for failure.\n 1947  \n 1948  20010206 dholland in base\n\n/home/chris/school-projects/601-os/os161/.root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/os161/kern/include/thread.h:\n  152   * disappear at any time without notice.\n  153   */\n  154: int thread_fork(const char *name, struct proc *proc,\n  155                  void (*func)(void *, unsigned long),\n  156                  void *data1, unsigned long data2);\n\n/home/chris/school-projects/601-os/os161/kern/main/menu.c:\n  130  \ttc = thread_count;\n  131  \n  132: \tresult = thread_fork(args[0] /* thread name */,\n  133  \t\t\tproc /* new process */,\n  134  \t\t\tcmd_progthread /* thread function */,\n  135  \t\t\targs /* thread arg */, nargs /* thread arg */);\n  136  \tif (result) {\n  137: \t\tkprintf(\"thread_fork failed: %s\\n\", strerror(result));\n  138  \t\tproc_destroy(proc);\n  139  \t\treturn result;\n  ...\n  330  \t}\n  331  \n  332: \tresult = thread_fork(args[0] /* thread name */,\n  333  \t\t\tNULL /* kernel thread */,\n  334  \t\t\tcmd_deadlockthread /* thread function */,\n  335  \t\t\t&dl /* thread arg */, 0 /* thread arg */);\n  336  \tif (result) {\n  337: \t\tkprintf(\"thread_fork failed: %s\\n\", strerror(result));\n  338  \t\tlock_release(dl.lock1);\n  339  \t\tlock_destroy(dl.lock2);\n\n/home/chris/school-projects/601-os/os161/kern/test/automationtest.c:\n   95  \tlock_acquire(deadlock_locks[0]);\t\n   96  \n   97: \tresult = thread_fork(\"dltest\", NULL, dltestthread, NULL, (unsigned long)0);\n   98  \tif (result) {\n   99: \t\tpanic(\"dltest: thread_fork failed: %s\\n\", strerror(result));\n  100  \t}\n  101  \n  ...\n  164  \n  165  \tfor (i=1; i<16; i++) {\n  166: \t\tresult = thread_fork(\"ll16testthread\", NULL, ll16testthread, NULL, (unsigned long)i);\n  167  \t\tif (result) {\n  168: \t\t\tpanic(\"ll16test: thread_fork failed: %s\\n\", strerror(result));\n  169  \t\t}\n  170  \t}\n\n/home/chris/school-projects/601-os/os161/kern/test/fstest.c:\n  327  \n  328  \tfor (i=0; i<NTHREADS; i++) {\n  329: \t\terr = thread_fork(\"readstress\", NULL,\n  330  \t\t\t\t  readstress_thread, (char *)filesys, i);\n  331  \t\tif (err) {\n  332: \t\t\tpanic(\"readstress: thread_fork failed: %s\\n\",\n  333  \t\t\t      strerror(err));\n  334  \t\t}\n  ...\n  389  \n  390  \tfor (i=0; i<NTHREADS; i++) {\n  391: \t\terr = thread_fork(\"writestress\", NULL,\n  392  \t\t\t\t  writestress_thread, (char *)filesys, i);\n  393  \t\tif (err) {\n  394: \t\t\tpanic(\"thread_fork failed %s\\n\", strerror(err));\n  395  \t\t}\n  396  \t}\n  ...\n  443  \n  444  \tfor (i=0; i<NTHREADS; i++) {\n  445: \t\terr = thread_fork(\"writestress2\", NULL,\n  446  \t\t\t\t  writestress2_thread, (char *)filesys, i);\n  447  \t\tif (err) {\n  448: \t\t\tpanic(\"writestress2: thread_fork failed: %s\\n\",\n  449  \t\t\t      strerror(err));\n  450  \t\t}\n  ...\n  516  \n  517  \tfor (i=0; i<NTHREADS; i++) {\n  518: \t\terr = thread_fork(\"longstress\", NULL,\n  519  \t\t\t\t  longstress_thread, (char *)filesys, i);\n  520  \t\tif (err) {\n  521: \t\t\tpanic(\"longstress: thread_fork failed %s\\n\",\n  522  \t\t\t      strerror(err));\n  523  \t\t}\n  ...\n  658  \n  659  \tfor (i=0; i<NTHREADS; i++) {\n  660: \t\terr = thread_fork(\"createstress\", NULL,\n  661  \t\t\t\t  createstress_thread, (char *)filesys, i);\n  662  \t\tif (err) {\n  663: \t\t\tpanic(\"createstress: thread_fork failed %s\\n\",\n  664  \t\t\t      strerror(err));\n  665  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/kmalloctest.c:\n  142  \n  143  \tfor (i=0; i<NTHREADS; i++) {\n  144: \t\tresult = thread_fork(\"kmallocstress\", NULL,\n  145  \t\t\t\t     kmallocthread, sem, i);\n  146  \t\tif (result) {\n  147: \t\t\tpanic(\"kmallocstress: thread_fork failed: %s\\n\",\n  148  \t\t\t      strerror(result));\n  149  \t\t}\n  ...\n  403  \n  404  \tfor (i=0; i<nthreads; i++) {\n  405: \t\tresult = thread_fork(\"kmalloctest4\", NULL,\n  406  \t\t\t\t     kmalloctest4thread, sem, i);\n  407  \t\tif (result) {\n  408: \t\t\tpanic(\"kmallocstress: thread_fork failed: %s\\n\",\n  409  \t\t\t      strerror(result));\n  410  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/semunit.c:\n  116  \tspinlock_release(&waiters_lock);\n  117  \n  118: \tresult = thread_fork(\"semunit waiter\", NULL, waiter, sem, 0);\n  119  \tif (result) {\n  120: \t\tpanic(\"semunit: thread_fork failed\\n\");\n  121  \t}\n  122  \tkprintf(\"Sleeping for waiter to run\\n\");\n  ...\n  649  \n  650  \tsem = makesem(0);\n  651: \tresult = thread_fork(\"semu17_sub\", NULL, semu17_sub, sem, 0);\n  652  \tif (result) {\n  653: \t\tpanic(\"semu17: whoops: thread_fork failed\\n\");\n  654  \t}\n  655  \tkprintf(\"Waiting for subthread...\\n\");\n  ...\n  744  \n  745  \tsem = makesem(0);\n  746: \tresult = thread_fork(\"semu19_sub\", NULL, semu19_sub, sem, 0);\n  747  \tif (result) {\n  748: \t\tpanic(\"semu19: whoops: thread_fork failed\\n\");\n  749  \t}\n  750  \n\n/home/chris/school-projects/601-os/os161/kern/test/synchprobs.c:\n  288  \t\t\t\tcase 0:\n  289  \t\t\t\t\tsnprintf(name, sizeof(name), \"Male Whale Thread %d\", index);\n  290: \t\t\t\t\terr = thread_fork(name, NULL, male_wrapper, NULL, index);\n  291  \t\t\t\t\tbreak;\n  292  \t\t\t\tcase 1:\n  293  \t\t\t\t\tsnprintf(name, sizeof(name), \"Female Whale Thread %d\", index);\n  294: \t\t\t\t\terr = thread_fork(name, NULL, female_wrapper, NULL, index);\n  295  \t\t\t\t\tbreak;\n  296  \t\t\t}\n  297  \t\t\ttotal_count += 1;\n  298  \t\t\tif (err) {\n  299: \t\t\t\tpanic(\"sp1: thread_fork failed: (%s)\\n\", strerror(err));\n  300  \t\t\t}\n  301  \t\t}\n  ...\n  330  \t\twhale_threads[index] = NULL;\n  331  \t\tsnprintf(name, sizeof(name), \"Matchmaker Whale Thread %d\", index);\n  332: \t\terr = thread_fork(name, NULL, matchmaker_wrapper, NULL, index);\n  333  \t\tif (err) {\n  334: \t\t\tpanic(\"sp1: thread_fork failed: (%s)\\n\", strerror(err));\n  335  \t\t}\n  336  \t\ttotal_count++;\n  ...\n  643  \t\tswitch (turn) {\n  644  \t\t\tcase GO_STRAIGHT:\n  645: \t\t\terr = thread_fork(name, NULL, gostraight_wrapper, (void *)i, direction);\n  646  \t\t\trequired_quadrant += 2;\n  647  \t\t\tbreak;\n  648  \t\t\tcase TURN_LEFT:\n  649: \t\t\terr = thread_fork(name, NULL, turnleft_wrapper, (void *)i, direction);\n  650  \t\t\trequired_quadrant += 3;\n  651  \t\t\tbreak;\n  652  \t\t\tcase TURN_RIGHT:\n  653: \t\t\terr = thread_fork(name, NULL, turnright_wrapper, (void *)i, direction);\n  654  \t\t\trequired_quadrant += 1;\n  655  \t\t\tbreak;\n  656  \t\t}\n  657  \t\tif (err) {\n  658: \t\t\tpanic(\"sp2: thread_fork failed: (%s)\\n\", strerror(err));\n  659  \t\t}\n  660  \t}\n\n/home/chris/school-projects/601-os/os161/kern/test/synchtest.c:\n  142  \tfor (i=0; i<NTHREADS; i++) {\n  143  \t\tkprintf_t(\".\");\n  144: \t\tresult = thread_fork(\"semtest\", NULL, semtestthread, NULL, i);\n  145  \t\tif (result) {\n  146: \t\t\tpanic(\"sem1: thread_fork failed: %s\\n\",\n  147  \t\t\t      strerror(result));\n  148  \t\t}\n  ...\n  278  \tfor (i=0; i<NTHREADS; i++) {\n  279  \t\tkprintf_t(\".\");\n  280: \t\tresult = thread_fork(\"synchtest\", NULL, locktestthread, NULL, i);\n  281  \t\tif (result) {\n  282: \t\t\tpanic(\"lt1: thread_fork failed: %s\\n\", strerror(result));\n  283  \t\t}\n  284  \t}\n  ...\n  400    }\n  401  \n  402: \tresult = thread_fork(\"lt4\", NULL, locktestacquirer, NULL, 0);\n  403  \tif (result) {\n  404: \t\tpanic(\"lt4: thread_fork failed: %s\\n\", strerror(result));\n  405  \t}\n  406  \n  ...\n  441    }\n  442  \n  443: \tresult = thread_fork(\"lt5\", NULL, locktestacquirer, NULL, 0);\n  444  \tif (result) {\n  445: \t\tpanic(\"lt5: thread_fork failed: %s\\n\", strerror(result));\n  446  \t}\n  447  \n  ...\n  551  \tfor (i=0; i<NTHREADS; i++) {\n  552  \t\tkprintf_t(\".\");\n  553: \t\tresult = thread_fork(\"cvt1\", NULL, cvtestthread, NULL, (long unsigned) i);\n  554  \t\tif (result) {\n  555: \t\t\tpanic(\"cvt1: thread_fork failed: %s\\n\", strerror(result));\n  556  \t\t}\n  557  \t}\n  ...\n  684  \ttest_status = TEST161_SUCCESS;\n  685  \n  686: \tresult = thread_fork(\"cvt2\", NULL, sleepthread, NULL, 0);\n  687  \tif (result) {\n  688: \t\tpanic(\"cvt2: thread_fork failed\\n\");\n  689  \t}\n  690: \tresult = thread_fork(\"cvt2\", NULL, wakethread, NULL, 0);\n  691  \tif (result) {\n  692: \t\tpanic(\"cvt2: thread_fork failed\\n\");\n  693  \t}\n  694  \tP(exitsem);\n  ...\n  852  \tlock_acquire(testlock2);\n  853  \n  854: \tresult = thread_fork(\"cvt5\", NULL, sleeperthread, NULL, 0);\n  855  \tif (result) {\n  856: \t\tpanic(\"cvt5: thread_fork failed\\n\");\n  857  \t}\n  858: \tresult = thread_fork(\"cvt5\", NULL, wakerthread, NULL, 0);\n  859  \tif (result) {\n  860: \t\tpanic(\"cvt5: thread_fork failed\\n\");\n  861  \t}\n  862  \n\n/home/chris/school-projects/601-os/os161/kern/test/threadtest.c:\n  103  \tfor (i=0; i<NTHREADS; i++) {\n  104  \t\tsnprintf(name, sizeof(name), \"threadtest%d\", i);\n  105: \t\tresult = thread_fork(name, NULL,\n  106  \t\t\t\t     doloud ? loudthread : quietthread,\n  107  \t\t\t\t     NULL, i);\n  108  \t\tif (result) {\n  109: \t\t\tpanic(\"threadtest: thread_fork failed %s)\\n\",\n  110  \t\t\t      strerror(result));\n  111  \t\t}\n\n/home/chris/school-projects/601-os/os161/kern/test/tt3.c:\n  148  \tfor (i=0; i<howmany; i++) {\n  149  \t\tsnprintf(name, sizeof(name), \"sleepalot%d\", i);\n  150: \t\tresult = thread_fork(name, NULL, sleepalot_thread, NULL, i);\n  151  \t\tif (result) {\n  152: \t\t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  153  \t\t}\n  154  \t}\n  155: \tresult = thread_fork(\"waker\", NULL, waker_thread, NULL, 0);\n  156  \tif (result) {\n  157: \t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  158  \t}\n  159  }\n  ...\n  225  \tfor (i=0; i<howmany; i++) {\n  226  \t\tsnprintf(name, sizeof(name), \"compute%d\", i);\n  227: \t\tresult = thread_fork(name, NULL, compute_thread, NULL, i);\n  228  \t\tif (result) {\n  229: \t\t\tpanic(\"thread_fork failed: %s\\n\", strerror(result));\n  230  \t\t}\n  231  \t}\n\n/home/chris/school-projects/601-os/os161/kern/thread/thread.c:\n  506   */\n  507  int\n  508: thread_fork(const char *name,\n  509  \t    struct proc *proc,\n  510  \t    void (*entrypoint)(void *data1, unsigned long data2),\n  ...\n  748  /*\n  749   * This function is where new threads start running. The arguments\n  750:  * ENTRYPOINT, DATA1, and DATA2 are passed through from thread_fork.\n  751   *\n  752   * Because new code comes here from inside the middle of\n\n/home/chris/school-projects/601-os/root/kernel:\n    <binary>\n\n/home/chris/school-projects/601-os/root/kernel-DUMBVM:\n    <binary>\n\n/home/chris/school-projects/601-os/root/.src/CHANGES:\n 1379  \n 1380  20020305 dholland in base\n 1381:    - Fix spl leak on thread_fork failure.\n 1382  \n 1383  20020305 dholland in base\n ....\n 1519  \n 1520  20020102 dholland in base\n 1521:    - Change thread_fork so it can return errors.\n 1522  \n 1523  20020102 dholland in base\n ....\n 1779  \n 1780  20010611 dholland in base\n 1781:    - Fix memory leak on error in thread_fork.\n 1782  \n 1783  20010611 dholland in base\n ....\n 1944  \n 1945  20010207 dholland in base\n 1946:    - Check all calls to thread_fork for failure.\n 1947  \n 1948  20010206 dholland in base\n\n174 matches across 18 files\n",
+			"settings":
+			{
+				"buffer_size": 87736,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "os161/kern/include/thread.h",
+			"settings":
+			{
+				"buffer_size": 6016,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/arch/mips/vm/dumbvm.c",
+			"settings":
+			{
+				"buffer_size": 10297,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/arch/mips/thread/cpu.c",
+			"settings":
+			{
+				"buffer_size": 8042,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/common/libc/printf/snprintf.c",
+			"settings":
+			{
+				"buffer_size": 4478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/proc/proc.c",
+			"settings":
+			{
+				"buffer_size": 8316,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/include/proc.h",
+			"settings":
+			{
+				"buffer_size": 3689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/man/libc/stdarg.html",
+			"settings":
+			{
+				"buffer_size": 4570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/arch/mips/vm/tlb-mips161.S",
+			"settings":
+			{
+				"buffer_size": 7246,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/test/synchtest.c",
+			"settings":
+			{
+				"buffer_size": 18203,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/include/synch.h",
+			"settings":
+			{
+				"buffer_size": 5990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/thread/synch.c",
+			"settings":
+			{
+				"buffer_size": 6496,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/common/libtest161/test161.c",
+			"settings":
+			{
+				"buffer_size": 4220,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "os161/kern/vm/kmalloc.c",
+			"settings":
+			{
+				"buffer_size": 30415,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "notes.txt",
+			"settings":
+			{
+				"buffer_size": 1625,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/chris/.bashrc",
+			"settings":
+			{
+				"buffer_size": 5379,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Nodejs/Nodejs.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Nodejs/Nodejs.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/node.sublime-build",
+					""
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "canc",
+		"selected_items":
+		[
+			[
+				"canc",
+				"Build: Cancel"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"snysql",
+				"Set Syntax: SQL"
+			],
+			[
+				"synsql",
+				"Set Syntax: SQL"
+			],
+			[
+				"savall",
+				"File: Save All"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"saveal",
+				"File: Save All"
+			],
+			[
+				"syncim",
+				"Set Syntax: C Improved"
+			],
+			[
+				"sync",
+				"Set Syntax: C"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"unfo",
+				"Code Folding: Unfold All"
+			],
+			[
+				"synpyth",
+				"Set Syntax: Python"
+			],
+			[
+				"shuf",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"synrack",
+				"Set Syntax: Racket"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"trail",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"saveall",
+				"File: Save All"
+			],
+			[
+				"prefere",
+				"Preferences: Settings"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synpol",
+				"Set Syntax: Polymer"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indspa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"worw",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pre",
+				"Preferences: Settings"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"settings",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"syp",
+				"Set Syntax: Python"
+			],
+			[
+				"preference",
+				"Preferences: Settings"
+			],
+			[
+				"dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"delet",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"editp",
+				"Project: Edit Project"
+			],
+			[
+				"projec",
+				"Project: Edit Project"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"synpro",
+				"Set Syntax: Protocol Buffer"
+			],
+			[
+				"synpy",
+				"Set Syntax: Python"
+			],
+			[
+				"uniq",
+				"Permute Lines: Unique"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"srot",
+				"Sort Lines"
+			],
+			[
+				"uni",
+				"Permute Lines: Unique"
+			],
+			[
+				"synmark",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"synmar",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"pyth",
+				"Build With: python3"
+			],
+			[
+				"u",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"find",
+				"Text Pastry: Find"
+			],
+			[
+				"synhtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"shuff",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"lowerca",
+				"Convert Case: Lower Case"
+			],
+			[
+				"low",
+				"Convert Case: Lower Case"
+			],
+			[
+				"sypyh",
+				"Set Syntax: Python"
+			],
+			[
+				"space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"sypyth",
+				"Set Syntax: Python"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"savea",
+				"File: Save All"
+			],
+			[
+				"worwr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"foldal",
+				"Code Folding: Unfold All"
+			],
+			[
+				"indexml",
+				"Indent XML"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syn mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"removep",
+				"Package Control: Remove Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"csslin",
+				"CSSLint: Run CSSLint"
+			],
+			[
+				"cANC",
+				"Build: Cancel"
+			],
+			[
+				"past",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"texptnu",
+				"Text Pastry: Range (numeric)"
+			],
+			[
+				"sysplain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntext",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"stext",
+				"Set Syntax: Textile"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"save",
+				"File: Save All"
+			],
+			[
+				"synmarkd",
+				"Set Syntax: MultiMarkdown"
+			],
+			[
+				"synmgfm",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"synmare",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"contosp",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"terra",
+				"Set Syntax: Terra"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/chris/school-projects/601-os",
+		"/home/chris/school-projects/601-os/os161",
+		"/home/chris/school-projects/601-os/os161/kern",
+		"/home/chris/school-projects/601-os/os161/kern/thread",
+		"/home/chris/school-projects/601-os/root"
+	],
+	"file_history":
+	[
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/include/thread.h",
+		"/home/chris/school-projects/601-os/notes.txt",
+		"/home/chris/school-projects/601-os/os161/kern/lib/kprintf.c",
+		"/home/chris/school-projects/601-os/os161/kern/thread/thread.c",
+		"/home/chris/school-projects/601-os/os161/kern/include/test.h",
+		"/home/chris/school-projects/470/reversi/notes.txt",
+		"/home/chris/Documents/ADOBE_NOTES.txt",
+		"/opt/PostgreSQL/9.6/share/postgresql/pg_hba.conf.sample",
+		"/opt/PostgreSQL/9.6/data/pg_hba.conf",
+		"/home/chris/school-projects/452/anderson-chris-4b.txt",
+		"/home/chris/sandbox.py",
+		"/home/chris/interviews/tree-serialization.py",
+		"/home/chris/school-projects/452/google-notes.txt",
+		"/home/chris/school-projects/601-os/os161/kern/include/synch.h",
+		"/home/chris/Documents/Mom and Dad notes.txt",
+		"/home/chris/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+		"/home/chris/Documents/notes for iris.txt",
+		"/home/chris/school-projects/601-os/os161/kern/include/current.h",
+		"/home/chris/school-projects/601-os/os161/kern/thread/spl.c",
+		"/home/chris/school-projects/601-os/os161/kern/test/synchprobs.c",
+		"/home/chris/school-projects/601-os/os161/kern/test/semunit.c",
+		"/home/chris/school-projects/601-os/os161/kern/main/main.c",
+		"/home/chris/school-projects/601-os/os161/kern/include/thread.h",
+		"/home/chris/school-projects/601-os/os161/kern/thread/spinlock.c",
+		"/home/chris/school-projects/601-os/os161/kern/gdbscripts/wchan",
+		"/home/chris/school-projects/601-os/os161/kern/gdbscripts/mips-userland",
+		"/home/chris/school-projects/601-os/os161/kern/dev/generic/console.c",
+		"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/mips/trapframe.h",
+		"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/mips/current.h",
+		"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/machine/trapframe.h",
+		"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/includelinks/machine/current.h",
+		"/home/chris/school-projects/601-os/os161/kern/compile/DUMBVM/kernel",
+		"/home/chris/school-projects/601-os/os161/kern/arch/sys161/main/start.S",
+		"/home/chris/school-projects/601-os/os161/kern/arch/sys161/dev/lamebus_machdep.c",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/vm/dumbvm.c",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/switch.S",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/thread/cpu.c",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/syscall/syscall.c",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/locore/trap.c",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/locore/exception-mips1.S",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/include/trapframe.h",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/include/current.h",
+		"/home/chris/school-projects/601-os/os161/.root/.src/mk/os161.config-mips.mk",
+		"/home/chris/school-projects/601-os/os161/.root/.src/.root/kernel-DUMBVM",
+		"/home/chris/school-projects/601-os/os161/.root/.src/.root/kernel",
+		"/home/chris/school-projects/601-os/os161/.root/.src/CHANGES",
+		"/home/chris/school-projects/601-os/os161/.root/kernel-DUMBVM",
+		"/home/chris/school-projects/601-os/os161/.root/kernel",
+		"/home/chris/school-projects/601-os/os161/CHANGES",
+		"/home/chris/school-projects/601-os/os161/kern/include/cpu.h",
+		"/home/chris/school-projects/601-os/os161/kern/test/synchtest.c",
+		"/home/chris/school-projects/601-os/os161/kern/thread/synch.c",
+		"/home/chris/school-projects/601-os/os161/kern/vm/copyinout.c",
+		"/home/chris/school-projects/601-os/os161/mk/os161.config-mips.mk",
+		"/home/chris/school-projects/601-os/os161/test161/tests/stability/faulter.t",
+		"/home/chris/school-projects/601-os/os161/kern/include/lib.h",
+		"/home/chris/school-projects/601-os/os161/kern/test/lib.c",
+		"/home/chris/school-projects/601-os/os161/kern/fs/semfs/semfs_obj.c",
+		"/home/chris/school-projects/601-os/os161/kern/lib/misc.c",
+		"/home/chris/school-projects/601-os/os161/kern/proc/proc.c",
+		"/home/chris/school-projects/601-os/os161/kern/test/tt3.c",
+		"/home/chris/school-projects/601-os/os161/notes.txt",
+		"/home/chris/school-projects/601-os/os161/kern/vm/kmalloc.c",
+		"/home/chris/school-projects/601-os/os161/.root/build.sh",
+		"/home/chris/school-projects/601-os/os161/kern/synchprobs/whalemating.c",
+		"/home/chris/school-projects/601-os/os161/kern/include/spl.h",
+		"/home/chris/school-projects/601-os/os161/kern/include/types.h",
+		"/home/chris/school-projects/601-os/os161/kern/conf/DUMBVM",
+		"/home/chris/school-projects/601-os/os161/.root/sys161.conf",
+		"/home/chris/school-projects/601-os/os161/userland/testbin/sbrktest/sbrktest.c",
+		"/home/chris/school-projects/601-os/os161/kern/thread/clock.c",
+		"/home/chris/interviews/google.py",
+		"/home/chris/side-projects/finch/viz.py",
+		"/home/chris/school-projects/531/docker/server/Dockerfile",
+		"/home/chris/school-projects/531/docker/sinatra/Dockerfile",
+		"/home/chris/school-projects/601-os/os161/kern/arch/mips/vm/ram.c",
+		"/home/chris/school-projects/470/reversi/random_python/RandomGuy.py",
+		"/home/chris/school-projects/470/reversi/__init__.py",
+		"/home/chris/school-projects/470/potential-fields/Assets/Readme.txt",
+		"/home/chris/side-projects/game-of-codes/laminterp/run",
+		"/home/chris/side-projects/game-of-codes/flips/run",
+		"/home/chris/side-projects/game-of-codes/boxes/run",
+		"/home/chris/school-projects/beholder/.travis.yml",
+		"/home/chris/school-projects/beholder/WORKSPACE",
+		"/home/chris/school-projects/beholder/beholder/demos/demo/logs/test/events.out.tfevents.1498495185.ghost",
+		"/home/chris/school-projects/beholder/beholder/shared_config.py",
+		"/home/chris/school-projects/beholder/setup.py",
+		"/home/chris/school-projects/beholder/beholder/im_util.py",
+		"/home/chris/school-projects/beholder/notes.txt",
+		"/home/chris/school-projects/beholder/README.md",
+		"/home/chris/school-projects/beholder/beholder/video_writing.py",
+		"/home/chris/school-projects/beholder/beholder/server_side/beholder_plugin.py",
+		"/home/chris/school-projects/beholder/beholder/BUILD",
+		"/home/chris/school-projects/beholder/beholder/file_system_tools.py",
+		"/home/chris/school-projects/beholder/beholder/beholder.py",
+		"/home/chris/school-projects/beholder/beholder/tensorboard_x/BUILD",
+		"/home/chris/school-projects/beholder/beholder/server_side/BUILD",
+		"/home/chris/school-projects/beholder/bazel-bin/beholder/tensorboard_x/tensorboard_x",
+		"/etc/modprobe.d/blacklist.conf",
+		"/home/chris/Documents/talk-with-ram-about-companies.txt",
+		"/home/chris/side-projects/interview-questions/tips.txt",
+		"/home/chris/Documents/john dnd group notes.md",
+		"/home/chris/school-projects/beholder/beholder/tests/plugin_test.py",
+		"/home/chris/school-projects/beholder/beholder/tests/visualizer_test.py",
+		"/home/chris/school-projects/beholder/beholder/visualizer.py",
+		"/home/chris/school-projects/beholder/beholder/client_side/beholder-dashboard.html",
+		"/home/chris/school-projects/beholder/beholder/client_side/beholder-info.html",
+		"/home/chris/school-projects/beholder/beholder/colormaps.py",
+		"/home/chris/school-projects/beholder/beholder/demos/demo/demo.py",
+		"/home/chris/school-projects/beholder/beholder/tests/beholder_test.py",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/vgg/vgg.py",
+		"/home/chris/school-projects/beholder/beholder/client_side/beholder-video.html",
+		"/home/chris/school-projects/beholder/video-notes.txt",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/vgg_demo.py",
+		"/home/chris/school-projects/done/501r/10-style-transfer/main2.py",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/data_prep.py",
+		"/home/chris/school-projects/beholder/.gitignore",
+		"/home/chris/.bashrc",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/data/lists/files.txt",
+		"/home/chris/zapier/interview-chrisranderson-3b21c5886f0540218d0a783c2d465efa/data",
+		"/home/chris/school-projects/beholder/beholder/tensorboard_x/index.html",
+		"/home/chris/school-projects/beholder/beholder/tests/BUILD",
+		"/home/chris/school-projects/beholder/beholder/client_side/BUILD",
+		"/home/chris/school-projects/beholder/beholder/tensorboard_x/main.py",
+		"/home/chris/school-projects/beholder/beholder/client_side/beholder.html",
+		"/home/chris/.bazelrc",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/vgg/BUILD",
+		"/home/chris/school-projects/beholder/beholder/demos/vgg_demo/BUILD"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"/home/chris/school-projects/601-os/os161/kern/thread",
+			"",
+			"//tensorboard/plugins/beholder",
+			"",
+			"tensorboard/tensorboard/*",
+			"tensorboard/*",
+			"tensorboard",
+			"",
+			"summary_pb2",
+			"/home/chris/bin/tensorboard/tensorboard/backend/event_processing",
+			"",
+			"tensorboard/tensorboard/**",
+			"tensorboard/**",
+			"tensorboard",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"thread_fork",
+			"locktest",
+			"CREATEL",
+			"vm_bootstrap",
+			"machdep",
+			"vsnprintf",
+			"kproc",
+			"proc_bootstrap",
+			"va_list",
+			"tlb_rese",
+			"SECRET",
+			"secprintf",
+			"Should pan",
+			"should",
+			"kprintf_n",
+			"kprint.*m",
+			"kprint_",
+			"locktest",
+			"kfree",
+			"void.*\\n.*panic",
+			"owner",
+			"lock",
+			"print",
+			"totals",
+			"print",
+			"evalu",
+			"player",
+			"99",
+			"update_val",
+			"print",
+			"update_val",
+			"HIST",
+			"copy.play_move",
+			"copy.pla",
+			"copy = copy.deepcopy",
+			"valid_m",
+			"print",
+			"valid_move",
+			"read_me",
+			"play_move",
+			"print",
+			"valid_mo",
+			"board.at",
+			"self.at",
+			"[",
+			"apply",
+			"get_v",
+			",",
+			"),(",
+			"state",
+			"flip_no",
+			"self.at",
+			" == 0:",
+			"== 0:\n",
+			"= 0:",
+			"state",
+			",' ",
+			"624x544.jpg",
+			"'",
+			"Gl",
+			"gram",
+			", ",
+			"True",
+			"False",
+			" ",
+			"  ",
+			" ",
+			"False",
+			"True",
+			"step_co",
+			"],",
+			",",
+			" ",
+			"population_size",
+			"MUTANT",
+			"POPULA",
+			"POPULATION_SIZE",
+			"SELECT_PROP",
+			"max_weight",
+			"population_size",
+			"combined",
+			"hst",
+			"],",
+			",",
+			"MUTATION_COUNT",
+			"solution",
+			"total",
+			")",
+			"\n",
+			"ids",
+			"-- ",
+			"\n-- ",
+			"--",
+			"iterati",
+			"iterat",
+			"@authmethodhost@",
+			"string[0]",
+			"deserialize",
+			"left",
+			"traverse",
+			"left",
+			"--",
+			"panic",
+			"c_current_thread",
+			"current_th",
+			"curthread",
+			"deadlock on spinlock",
+			"struct thread",
+			"curth",
+			"curthread",
+			"curthr",
+			"\n{",
+			"struct lock",
+			"kstrdup",
+			"checksize",
+			"sz",
+			"kmall",
+			"kmal.*size[^o]",
+			"kmal.*size",
+			"kmal size",
+			"kfree",
+			"kstrdup",
+			"kstr",
+			"kstrdup",
+			"hangman_lockable",
+			"bool",
+			"struct lock",
+			"lock"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"current_thread",
+			"kstring_copy",
+			"//tensorboard/plugins/beholder",
+			"_reshape_conv_array",
+			"        ",
+			"self.invalid_step_count",
+			"KERNEL",
+			"kernel",
+			"KERNEL",
+			"kernel",
+			"\\1energy_functional\\2",
+			"candidate",
+			"Candidate",
+			"most_recent_frame_hessian",
+			"frame_hessian",
+			"{ \\1",
+			" {",
+			"\\{",
+			"if (\\1) {\\n",
+			"\tbofm\t"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 15,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "os161/kern/thread/thread.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33544,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13992,
+								13992
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "6d70759b",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 8986.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "os161/kern/vfs/vfscwd.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2080,
+								2080
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "4627cf54",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 702.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "os161/kern/arch/sys161/main/start.S",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10628,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7364,
+								7364
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "r",
+							"buffer_scroll_name": "5a43b8c9",
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "os161/kern/main/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3935,
+								3935
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "1f730502",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2014.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87736,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										336,
+										343
+									],
+									[
+										547,
+										554
+									],
+									[
+										688,
+										695
+									],
+									[
+										796,
+										803
+									],
+									[
+										878,
+										885
+									],
+									[
+										1071,
+										1078
+									],
+									[
+										1162,
+										1169
+									],
+									[
+										1333,
+										1340
+									],
+									[
+										1623,
+										1630
+									],
+									[
+										1631,
+										1638
+									],
+									[
+										1907,
+										1914
+									],
+									[
+										2040,
+										2047
+									],
+									[
+										2127,
+										2134
+									],
+									[
+										2326,
+										2333
+									],
+									[
+										2518,
+										2525
+									],
+									[
+										2528,
+										2535
+									],
+									[
+										2680,
+										2687
+									],
+									[
+										2762,
+										2769
+									],
+									[
+										2867,
+										2874
+									],
+									[
+										3090,
+										3097
+									],
+									[
+										3303,
+										3310
+									],
+									[
+										3453,
+										3460
+									],
+									[
+										3695,
+										3702
+									],
+									[
+										4000,
+										4007
+									],
+									[
+										4181,
+										4188
+									],
+									[
+										4292,
+										4299
+									],
+									[
+										4387,
+										4394
+									],
+									[
+										4482,
+										4489
+									],
+									[
+										4521,
+										4528
+									],
+									[
+										4746,
+										4753
+									],
+									[
+										4915,
+										4922
+									],
+									[
+										5163,
+										5170
+									],
+									[
+										5411,
+										5418
+									],
+									[
+										5586,
+										5593
+									],
+									[
+										5912,
+										5919
+									],
+									[
+										6024,
+										6031
+									],
+									[
+										6218,
+										6225
+									],
+									[
+										6470,
+										6477
+									],
+									[
+										6611,
+										6618
+									],
+									[
+										6659,
+										6666
+									],
+									[
+										6726,
+										6733
+									],
+									[
+										6794,
+										6801
+									],
+									[
+										6945,
+										6952
+									],
+									[
+										6953,
+										6960
+									],
+									[
+										7166,
+										7173
+									],
+									[
+										7326,
+										7333
+									],
+									[
+										7470,
+										7477
+									],
+									[
+										7612,
+										7619
+									],
+									[
+										7792,
+										7799
+									],
+									[
+										7927,
+										7934
+									],
+									[
+										8058,
+										8065
+									],
+									[
+										8301,
+										8308
+									],
+									[
+										8388,
+										8395
+									],
+									[
+										8540,
+										8547
+									],
+									[
+										8706,
+										8713
+									],
+									[
+										8873,
+										8880
+									],
+									[
+										9056,
+										9063
+									],
+									[
+										9160,
+										9167
+									],
+									[
+										9235,
+										9242
+									],
+									[
+										9329,
+										9336
+									],
+									[
+										9450,
+										9457
+									],
+									[
+										9584,
+										9591
+									],
+									[
+										9727,
+										9734
+									],
+									[
+										9975,
+										9982
+									],
+									[
+										10021,
+										10028
+									],
+									[
+										10079,
+										10086
+									],
+									[
+										10138,
+										10145
+									],
+									[
+										10305,
+										10312
+									],
+									[
+										10454,
+										10461
+									],
+									[
+										10647,
+										10654
+									],
+									[
+										10734,
+										10741
+									],
+									[
+										10886,
+										10893
+									],
+									[
+										11043,
+										11050
+									],
+									[
+										11201,
+										11208
+									],
+									[
+										11375,
+										11382
+									],
+									[
+										11470,
+										11477
+									],
+									[
+										11545,
+										11552
+									],
+									[
+										11639,
+										11646
+									],
+									[
+										11760,
+										11767
+									],
+									[
+										11894,
+										11901
+									],
+									[
+										12037,
+										12044
+									],
+									[
+										12259,
+										12266
+									],
+									[
+										12434,
+										12441
+									],
+									[
+										12536,
+										12543
+									],
+									[
+										12652,
+										12659
+									],
+									[
+										12770,
+										12777
+									],
+									[
+										12883,
+										12890
+									],
+									[
+										12970,
+										12977
+									],
+									[
+										13153,
+										13160
+									],
+									[
+										13236,
+										13243
+									],
+									[
+										13391,
+										13398
+									],
+									[
+										13590,
+										13597
+									],
+									[
+										13795,
+										13802
+									],
+									[
+										13891,
+										13898
+									],
+									[
+										13979,
+										13986
+									],
+									[
+										14193,
+										14200
+									],
+									[
+										14364,
+										14371
+									],
+									[
+										15024,
+										15038
+									],
+									[
+										15244,
+										15258
+									],
+									[
+										15411,
+										15425
+									],
+									[
+										16093,
+										16107
+									],
+									[
+										16313,
+										16327
+									],
+									[
+										16480,
+										16494
+									],
+									[
+										17019,
+										17028
+									],
+									[
+										17166,
+										17175
+									],
+									[
+										17268,
+										17277
+									],
+									[
+										17466,
+										17475
+									],
+									[
+										17837,
+										17846
+									],
+									[
+										18170,
+										18179
+									],
+									[
+										18552,
+										18561
+									],
+									[
+										18856,
+										18865
+									],
+									[
+										19040,
+										19049
+									],
+									[
+										19315,
+										19324
+									],
+									[
+										19586,
+										19595
+									],
+									[
+										19829,
+										19838
+									],
+									[
+										19996,
+										20005
+									],
+									[
+										20163,
+										20172
+									],
+									[
+										20388,
+										20397
+									],
+									[
+										20595,
+										20604
+									],
+									[
+										20840,
+										20849
+									],
+									[
+										21063,
+										21072
+									],
+									[
+										21281,
+										21290
+									],
+									[
+										21478,
+										21487
+									],
+									[
+										21683,
+										21692
+									],
+									[
+										22185,
+										22192
+									],
+									[
+										22338,
+										22345
+									],
+									[
+										22572,
+										22579
+									],
+									[
+										22802,
+										22809
+									],
+									[
+										23021,
+										23028
+									],
+									[
+										23260,
+										23267
+									],
+									[
+										23306,
+										23313
+									],
+									[
+										23377,
+										23384
+									],
+									[
+										23477,
+										23484
+									],
+									[
+										23599,
+										23606
+									],
+									[
+										23662,
+										23669
+									],
+									[
+										23724,
+										23731
+									],
+									[
+										23770,
+										23777
+									],
+									[
+										23841,
+										23848
+									],
+									[
+										23945,
+										23952
+									],
+									[
+										24067,
+										24074
+									],
+									[
+										24130,
+										24137
+									],
+									[
+										24192,
+										24199
+									],
+									[
+										24238,
+										24245
+									],
+									[
+										24309,
+										24316
+									],
+									[
+										24417,
+										24424
+									],
+									[
+										24539,
+										24546
+									],
+									[
+										24602,
+										24609
+									],
+									[
+										24802,
+										24809
+									],
+									[
+										24848,
+										24855
+									],
+									[
+										24919,
+										24926
+									],
+									[
+										25019,
+										25026
+									],
+									[
+										25141,
+										25148
+									],
+									[
+										25204,
+										25211
+									],
+									[
+										25266,
+										25273
+									],
+									[
+										25312,
+										25319
+									],
+									[
+										25383,
+										25390
+									],
+									[
+										25487,
+										25494
+									],
+									[
+										25609,
+										25616
+									],
+									[
+										25672,
+										25679
+									],
+									[
+										25734,
+										25741
+									],
+									[
+										25780,
+										25787
+									],
+									[
+										25851,
+										25858
+									],
+									[
+										25959,
+										25966
+									],
+									[
+										26081,
+										26088
+									],
+									[
+										26144,
+										26151
+									],
+									[
+										26432,
+										26439
+									],
+									[
+										26497,
+										26504
+									],
+									[
+										26562,
+										26569
+									],
+									[
+										26839,
+										26846
+									],
+									[
+										26904,
+										26911
+									],
+									[
+										26969,
+										26976
+									],
+									[
+										27670,
+										27677
+									],
+									[
+										27792,
+										27799
+									],
+									[
+										28261,
+										28268
+									],
+									[
+										28383,
+										28390
+									],
+									[
+										28954,
+										28961
+									],
+									[
+										29064,
+										29071
+									],
+									[
+										29115,
+										29122
+									],
+									[
+										29388,
+										29395
+									],
+									[
+										29519,
+										29526
+									],
+									[
+										29606,
+										29613
+									],
+									[
+										29688,
+										29695
+									],
+									[
+										29869,
+										29876
+									],
+									[
+										30013,
+										30020
+									],
+									[
+										30082,
+										30089
+									],
+									[
+										30166,
+										30173
+									],
+									[
+										30352,
+										30359
+									],
+									[
+										30496,
+										30503
+									],
+									[
+										30566,
+										30573
+									],
+									[
+										30650,
+										30657
+									],
+									[
+										30753,
+										30760
+									],
+									[
+										30846,
+										30853
+									],
+									[
+										30925,
+										30932
+									],
+									[
+										31055,
+										31062
+									],
+									[
+										31155,
+										31162
+									],
+									[
+										31248,
+										31255
+									],
+									[
+										31333,
+										31340
+									],
+									[
+										31447,
+										31454
+									],
+									[
+										31557,
+										31564
+									],
+									[
+										31608,
+										31615
+									],
+									[
+										31881,
+										31888
+									],
+									[
+										32012,
+										32019
+									],
+									[
+										32099,
+										32106
+									],
+									[
+										32181,
+										32188
+									],
+									[
+										32362,
+										32369
+									],
+									[
+										32506,
+										32513
+									],
+									[
+										32575,
+										32582
+									],
+									[
+										32659,
+										32666
+									],
+									[
+										32845,
+										32852
+									],
+									[
+										32989,
+										32996
+									],
+									[
+										33059,
+										33066
+									],
+									[
+										33143,
+										33150
+									],
+									[
+										33246,
+										33253
+									],
+									[
+										33339,
+										33346
+									],
+									[
+										33418,
+										33425
+									],
+									[
+										33548,
+										33555
+									],
+									[
+										33648,
+										33655
+									],
+									[
+										33741,
+										33748
+									],
+									[
+										33826,
+										33833
+									],
+									[
+										34071,
+										34078
+									],
+									[
+										34284,
+										34291
+									],
+									[
+										34671,
+										34678
+									],
+									[
+										34896,
+										34903
+									],
+									[
+										35378,
+										35385
+									],
+									[
+										35702,
+										35709
+									],
+									[
+										36245,
+										36252
+									],
+									[
+										36458,
+										36465
+									],
+									[
+										39220,
+										39227
+									],
+									[
+										39400,
+										39407
+									],
+									[
+										55013,
+										55020
+									],
+									[
+										55277,
+										55284
+									],
+									[
+										55578,
+										55585
+									],
+									[
+										55663,
+										55670
+									],
+									[
+										55998,
+										56005
+									],
+									[
+										56214,
+										56221
+									],
+									[
+										56428,
+										56435
+									],
+									[
+										56496,
+										56503
+									],
+									[
+										56523,
+										56530
+									],
+									[
+										56621,
+										56628
+									],
+									[
+										56651,
+										56658
+									],
+									[
+										56866,
+										56873
+									],
+									[
+										57101,
+										57108
+									],
+									[
+										57142,
+										57149
+									],
+									[
+										57436,
+										57443
+									],
+									[
+										57477,
+										57484
+									],
+									[
+										57725,
+										57732
+									],
+									[
+										57766,
+										57773
+									],
+									[
+										58012,
+										58019
+									],
+									[
+										58053,
+										58060
+									],
+									[
+										58452,
+										58459
+									],
+									[
+										58786,
+										58793
+									],
+									[
+										59147,
+										59154
+									],
+									[
+										59464,
+										59471
+									],
+									[
+										59782,
+										59789
+									],
+									[
+										59970,
+										59977
+									],
+									[
+										60245,
+										60252
+									],
+									[
+										60255,
+										60262
+									],
+									[
+										60572,
+										60579
+									],
+									[
+										60797,
+										60804
+									],
+									[
+										60824,
+										60831
+									],
+									[
+										60857,
+										60864
+									],
+									[
+										60887,
+										60894
+									],
+									[
+										61044,
+										61051
+									],
+									[
+										61068,
+										61075
+									],
+									[
+										61204,
+										61211
+									],
+									[
+										61331,
+										61338
+									],
+									[
+										61358,
+										61365
+									],
+									[
+										61609,
+										61616
+									],
+									[
+										61883,
+										61890
+									],
+									[
+										62159,
+										62166
+									],
+									[
+										62321,
+										62328
+									],
+									[
+										62412,
+										62419
+									],
+									[
+										62498,
+										62505
+									],
+									[
+										62568,
+										62575
+									],
+									[
+										62724,
+										62731
+									],
+									[
+										62833,
+										62840
+									],
+									[
+										62919,
+										62926
+									],
+									[
+										62989,
+										62996
+									],
+									[
+										63139,
+										63146
+									],
+									[
+										63248,
+										63255
+									],
+									[
+										63334,
+										63341
+									],
+									[
+										63404,
+										63411
+									],
+									[
+										63587,
+										63594
+									],
+									[
+										63701,
+										63708
+									],
+									[
+										63787,
+										63794
+									],
+									[
+										63857,
+										63864
+									],
+									[
+										64034,
+										64041
+									],
+									[
+										64566,
+										64578
+									],
+									[
+										64821,
+										64833
+									],
+									[
+										65026,
+										65038
+									],
+									[
+										65443,
+										65454
+									],
+									[
+										65571,
+										65582
+									],
+									[
+										65736,
+										65747
+									],
+									[
+										65868,
+										65879
+									],
+									[
+										66297,
+										66308
+									],
+									[
+										66576,
+										66587
+									],
+									[
+										66795,
+										66806
+									],
+									[
+										66935,
+										66946
+									],
+									[
+										67155,
+										67166
+									],
+									[
+										67404,
+										67415
+									],
+									[
+										67517,
+										67528
+									],
+									[
+										67644,
+										67655
+									],
+									[
+										67771,
+										67782
+									],
+									[
+										67960,
+										67971
+									],
+									[
+										68094,
+										68105
+									],
+									[
+										68230,
+										68241
+									],
+									[
+										68354,
+										68365
+									],
+									[
+										68483,
+										68494
+									],
+									[
+										68623,
+										68634
+									],
+									[
+										68759,
+										68770
+									],
+									[
+										68893,
+										68904
+									],
+									[
+										69028,
+										69039
+									],
+									[
+										69168,
+										69179
+									],
+									[
+										69367,
+										69378
+									],
+									[
+										69497,
+										69508
+									],
+									[
+										69639,
+										69650
+									],
+									[
+										69773,
+										69784
+									],
+									[
+										69975,
+										69986
+									],
+									[
+										70075,
+										70086
+									],
+									[
+										70215,
+										70226
+									],
+									[
+										70322,
+										70333
+									],
+									[
+										70460,
+										70471
+									],
+									[
+										70567,
+										70578
+									],
+									[
+										70785,
+										70796
+									],
+									[
+										70968,
+										70979
+									],
+									[
+										71125,
+										71136
+									],
+									[
+										71328,
+										71339
+									],
+									[
+										71428,
+										71439
+									],
+									[
+										71583,
+										71594
+									],
+									[
+										71743,
+										71754
+									],
+									[
+										71902,
+										71913
+									],
+									[
+										72072,
+										72083
+									],
+									[
+										72283,
+										72294
+									],
+									[
+										72383,
+										72394
+									],
+									[
+										72542,
+										72553
+									],
+									[
+										72644,
+										72655
+									],
+									[
+										72753,
+										72764
+									],
+									[
+										72849,
+										72860
+									],
+									[
+										72955,
+										72966
+									],
+									[
+										73051,
+										73062
+									],
+									[
+										73201,
+										73212
+									],
+									[
+										73313,
+										73324
+									],
+									[
+										73450,
+										73461
+									],
+									[
+										73543,
+										73554
+									],
+									[
+										73594,
+										73605
+									],
+									[
+										73686,
+										73697
+									],
+									[
+										73804,
+										73815
+									],
+									[
+										73899,
+										73910
+									],
+									[
+										73950,
+										73961
+									],
+									[
+										74043,
+										74054
+									],
+									[
+										74264,
+										74275
+									],
+									[
+										74417,
+										74428
+									],
+									[
+										74660,
+										74671
+									],
+									[
+										74752,
+										74763
+									],
+									[
+										74836,
+										74847
+									],
+									[
+										74925,
+										74936
+									],
+									[
+										75105,
+										75116
+									],
+									[
+										75195,
+										75206
+									],
+									[
+										75355,
+										75366
+									],
+									[
+										75635,
+										75646
+									],
+									[
+										75977,
+										75988
+									],
+									[
+										76105,
+										76116
+									],
+									[
+										76270,
+										76281
+									],
+									[
+										76402,
+										76413
+									],
+									[
+										76682,
+										76693
+									],
+									[
+										76810,
+										76821
+									],
+									[
+										76975,
+										76986
+									],
+									[
+										77107,
+										77118
+									],
+									[
+										77536,
+										77547
+									],
+									[
+										77815,
+										77826
+									],
+									[
+										78034,
+										78045
+									],
+									[
+										78174,
+										78185
+									],
+									[
+										78394,
+										78405
+									],
+									[
+										78643,
+										78654
+									],
+									[
+										78756,
+										78767
+									],
+									[
+										78883,
+										78894
+									],
+									[
+										79010,
+										79021
+									],
+									[
+										79199,
+										79210
+									],
+									[
+										79333,
+										79344
+									],
+									[
+										79469,
+										79480
+									],
+									[
+										79593,
+										79604
+									],
+									[
+										79722,
+										79733
+									],
+									[
+										79862,
+										79873
+									],
+									[
+										79998,
+										80009
+									],
+									[
+										80132,
+										80143
+									],
+									[
+										80267,
+										80278
+									],
+									[
+										80407,
+										80418
+									],
+									[
+										80606,
+										80617
+									],
+									[
+										80736,
+										80747
+									],
+									[
+										80878,
+										80889
+									],
+									[
+										81012,
+										81023
+									],
+									[
+										81214,
+										81225
+									],
+									[
+										81314,
+										81325
+									],
+									[
+										81454,
+										81465
+									],
+									[
+										81561,
+										81572
+									],
+									[
+										81699,
+										81710
+									],
+									[
+										81806,
+										81817
+									],
+									[
+										82024,
+										82035
+									],
+									[
+										82207,
+										82218
+									],
+									[
+										82364,
+										82375
+									],
+									[
+										82567,
+										82578
+									],
+									[
+										82667,
+										82678
+									],
+									[
+										82822,
+										82833
+									],
+									[
+										82982,
+										82993
+									],
+									[
+										83141,
+										83152
+									],
+									[
+										83311,
+										83322
+									],
+									[
+										83522,
+										83533
+									],
+									[
+										83622,
+										83633
+									],
+									[
+										83781,
+										83792
+									],
+									[
+										83883,
+										83894
+									],
+									[
+										83992,
+										84003
+									],
+									[
+										84088,
+										84099
+									],
+									[
+										84194,
+										84205
+									],
+									[
+										84290,
+										84301
+									],
+									[
+										84440,
+										84451
+									],
+									[
+										84552,
+										84563
+									],
+									[
+										84689,
+										84700
+									],
+									[
+										84782,
+										84793
+									],
+									[
+										84833,
+										84844
+									],
+									[
+										84925,
+										84936
+									],
+									[
+										85043,
+										85054
+									],
+									[
+										85138,
+										85149
+									],
+									[
+										85189,
+										85200
+									],
+									[
+										85282,
+										85293
+									],
+									[
+										85503,
+										85514
+									],
+									[
+										85656,
+										85667
+									],
+									[
+										85899,
+										85910
+									],
+									[
+										85991,
+										86002
+									],
+									[
+										86075,
+										86086
+									],
+									[
+										86164,
+										86175
+									],
+									[
+										86344,
+										86355
+									],
+									[
+										86434,
+										86445
+									],
+									[
+										86594,
+										86605
+									],
+									[
+										86874,
+										86885
+									],
+									[
+										87216,
+										87227
+									],
+									[
+										87344,
+										87355
+									],
+									[
+										87509,
+										87520
+									],
+									[
+										87641,
+										87652
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								77993,
+								77993
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "find results",
+							"default_dir": "/home/chris/school-projects/601-os",
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 8,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 35136.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "os161/kern/include/thread.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5265,
+								5265
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "d86fd705",
+							"spell_check": false,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2273.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "os161/kern/arch/mips/vm/dumbvm.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2922,
+								2922
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "e9525c25",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 980.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "os161/kern/arch/mips/thread/cpu.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8042,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3022,
+								3022
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "1835daba",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1124.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "os161/common/libc/printf/snprintf.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3004,
+								3004
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "e022e2c5",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2348.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "os161/kern/proc/proc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8316,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2315,
+								2315
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "964f3163",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 754.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "os161/kern/include/proc.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3036,
+								3036
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "c897a013",
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1196.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "os161/man/libc/stdarg.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2364,
+								2364
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "polymer",
+							"buffer_scroll_name": "c28355c6",
+							"syntax": "Packages/Polymer Syntax/polymer.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 988.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "os161/kern/arch/mips/vm/tlb-mips161.S",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "r",
+							"buffer_scroll_name": "809e94a5",
+							"syntax": "Packages/R/R.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3672.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "os161/kern/test/synchtest.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4457,
+								4457
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "05817754",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2723.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "os161/kern/include/synch.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2088,
+								2088
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c++",
+							"buffer_scroll_name": "3b04e282",
+							"history_list_is_closing": true,
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 8,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 563.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "os161/kern/thread/synch.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4847,
+								4847
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "b8dc3b94",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2997.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "os161/common/libtest161/test161.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4220,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2200,
+								2200
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "523630f5",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1013.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "os161/kern/vm/kmalloc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 30415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30380,
+								30380
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "c767f413",
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 22004.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1625,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								491,
+								491
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "09166d35",
+							"history_list_is_closing": true,
+							"open_with_edit": true,
+							"spell_check": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 15,
+					"file": "os161/kern/thread/synch.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3860,
+								3860
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "b8dc3b94",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "os161/kern/test/synchtest.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5967,
+								5967
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "c improved",
+							"buffer_scroll_name": "05817754",
+							"spell_check": false,
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "/home/chris/.bashrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5379,
+								5379
+							]
+						],
+						"settings":
+						{
+							"bs_sintax": "shell-unix-generic",
+							"buffer_scroll_name": "c6adc4cc",
+							"spell_check": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2416.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 118.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 154.0
+	},
+	"output.MarGo-output":
+	{
+		"height": 154.0
+	},
+	"output.csslint_result_view":
+	{
+		"height": 166.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 335.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "os161.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"syn.c",
+				"os161/kern/thread/synch.c"
+			],
+			[
+				"note",
+				"notes.txt"
+			],
+			[
+				"thr.c",
+				"os161/kern/thread/thread.c"
+			],
+			[
+				"syntes",
+				"os161/kern/test/synchtest.c"
+			],
+			[
+				"thread",
+				"os161/kern/thread/thread.c"
+			],
+			[
+				"main.c",
+				"os161/kern/main/main.c"
+			],
+			[
+				"vfs.c",
+				"os161/kern/vfs/vfscwd.c"
+			],
+			[
+				"threa",
+				"os161/kern/thread/thread.c"
+			],
+			[
+				"threa.c",
+				"os161/kern/thread/thread.c"
+			],
+			[
+				"tlbmips",
+				"os161/kern/arch/mips/vm/tlb-mips161.S"
+			],
+			[
+				"notes",
+				"notes.txt"
+			],
+			[
+				"start.s",
+				"os161/kern/arch/sys161/main/start.S"
+			],
+			[
+				"tes.c",
+				"os161/common/libtest161/test161.c"
+			],
+			[
+				"test",
+				"os161/kern/include/test.h"
+			],
+			[
+				"kmall.c",
+				"os161/kern/vm/kmalloc.c"
+			],
+			[
+				"dat",
+				"data.py"
+			],
+			[
+				"mai",
+				"main.py"
+			],
+			[
+				"syn.h",
+				"kern/include/synch.h"
+			],
+			[
+				"syntest",
+				"kern/test/synchtest.c"
+			],
+			[
+				"cpuh",
+				"kern/include/cpu.h"
+			],
+			[
+				"synch.c",
+				"kern/thread/synch.c"
+			],
+			[
+				"lih",
+				"kern/include/lib.h"
+			],
+			[
+				"lib",
+				"kern/test/lib.c"
+			],
+			[
+				"lib.c",
+				"kern/test/lib.c"
+			],
+			[
+				"splc",
+				"kern/thread/spl.c"
+			],
+			[
+				"spl",
+				"kern/include/spl.h"
+			],
+			[
+				"whal",
+				"kern/synchprobs/whalemating.c"
+			],
+			[
+				"build",
+				".root/build.sh"
+			],
+			[
+				"types",
+				"kern/include/types.h"
+			],
+			[
+				"synch",
+				"kern/thread/synch.c"
+			],
+			[
+				"whi",
+				"kern/synchprobs/whalemating.c"
+			],
+			[
+				"wcha",
+				"kern/include/wchan.h"
+			],
+			[
+				"thre.c",
+				"kern/thread/thread.c"
+			],
+			[
+				"typ",
+				"kern/include/types.h"
+			],
+			[
+				"dumb",
+				"kern/conf/DUMBVM"
+			],
+			[
+				"comm",
+				"communication.py"
+			],
+			[
+				"boar",
+				"board.py"
+			],
+			[
+				"pla",
+				"player.py"
+			],
+			[
+				"",
+				"board.py"
+			],
+			[
+				"plap",
+				"player.py"
+			],
+			[
+				"viz",
+				"viz.py"
+			],
+			[
+				"doc",
+				"sinatra/Dockerfile"
+			],
+			[
+				"videwr",
+				"beholder/video_writing.py"
+			],
+			[
+				"visuali",
+				"tensorboard/plugins/beholder/visualizer.py"
+			],
+			[
+				"vidwrit",
+				"tensorboard/plugins/beholder/video_writing.py"
+			],
+			[
+				"imutil",
+				"tensorboard/plugins/beholder/im_util.py"
+			],
+			[
+				"pluginhist",
+				"tensorboard/plugins/histogram/histograms_demo.py"
+			],
+			[
+				"beholder",
+				"tensorboard/plugins/beholder/beholder.py"
+			],
+			[
+				"robocon",
+				"Assets/RobotController.cs"
+			],
+			[
+				"readme",
+				"Assets/Readme.txt"
+			],
+			[
+				"bedash",
+				"beholder/client_side/beholder-dashboard.html"
+			],
+			[
+				"fils",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"demo",
+				"beholder/demos/demo/demo.py"
+			],
+			[
+				".html",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"behdash",
+				"beholder/client_side/beholder-dashboard.html"
+			],
+			[
+				"behopl",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"travis",
+				".travis.yml"
+			],
+			[
+				"setup",
+				"setup.py"
+			],
+			[
+				"beho",
+				"beholder/beholder.py"
+			],
+			[
+				"test1",
+				"beholder/demos/demo/logs/test/events.out.tfevents.1498495185.ghost"
+			],
+			[
+				"share",
+				"beholder/shared_config.py"
+			],
+			[
+				"imut",
+				"beholder/im_util.py"
+			],
+			[
+				"set",
+				"setup.py"
+			],
+			[
+				"travi",
+				".travis.yml"
+			],
+			[
+				"setu",
+				"setup.py"
+			],
+			[
+				"works",
+				"WORKSPACE"
+			],
+			[
+				"imu",
+				"beholder/im_util.py"
+			],
+			[
+				"behpl",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"file",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"vide",
+				"beholder/video_writing.py"
+			],
+			[
+				"filesto",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"beplu",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"bepl",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"behinf",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"visute",
+				"beholder/tests/visualizer_test.py"
+			],
+			[
+				"_tes",
+				"beholder/tests/beholder_test.py"
+			],
+			[
+				"_test",
+				"beholder/tests/plugin_test.py"
+			],
+			[
+				"vggde",
+				"beholder/demos/vgg_demo/vgg_demo.py"
+			],
+			[
+				"beholplu",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"fil",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"plute",
+				"beholder/tests/plugin_test.py"
+			],
+			[
+				"vis",
+				"beholder/visualizer.py"
+			],
+			[
+				"color",
+				"beholder/colormaps.py"
+			],
+			[
+				"plte",
+				"beholder/tests/plugin_test.py"
+			],
+			[
+				"beinf",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"be",
+				"beholder/client_side/beholder-dashboard.html"
+			],
+			[
+				"plugte",
+				"beholder/tests/plugin_test.py"
+			],
+			[
+				"testbuil",
+				"beholder/tests/BUILD"
+			],
+			[
+				"plug",
+				"beholder/tests/plugin_test.py"
+			],
+			[
+				"visu",
+				"beholder/visualizer.py"
+			],
+			[
+				"beh",
+				"beholder/beholder.py"
+			],
+			[
+				"behol",
+				"beholder/beholder.py"
+			],
+			[
+				"viste",
+				"beholder/tests/visualizer_test.py"
+			],
+			[
+				"behold",
+				"beholder/client_side/beholder-dashboard.html"
+			],
+			[
+				"visua",
+				"beholder/visualizer.py"
+			],
+			[
+				"visual",
+				"beholder/visualizer.py"
+			],
+			[
+				"proje",
+				"_posts/2016-9-12-projects.md"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"vites",
+				"beholder/tests/visualizer_test.py"
+			],
+			[
+				"vgg.",
+				"beholder/demos/vgg_demo/vgg/vgg.py"
+			],
+			[
+				"vgg",
+				"beholder/demos/vgg_demo/vgg/vgg.py"
+			],
+			[
+				"demopy",
+				"beholder/demos/demo/demo.py"
+			],
+			[
+				"vggdem",
+				"beholder/demos/vgg_demo/vgg_demo.py"
+			],
+			[
+				"videw",
+				"beholder/video_writing.py"
+			],
+			[
+				"bevi",
+				"beholder/client_side/beholder-video.html"
+			],
+			[
+				"videno",
+				"video-notes.txt"
+			],
+			[
+				"datapre",
+				"beholder/demos/vgg_demo/data_prep.py"
+			],
+			[
+				"vggdemo",
+				"beholder/demos/vgg_demo/vgg_demo.py"
+			],
+			[
+				"bevide",
+				"beholder/client_side/beholder-video.html"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"filess",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"files",
+				"beholder/demos/vgg_demo/data/lists/files.txt"
+			],
+			[
+				"behvi",
+				"beholder/client_side/beholder-video.html"
+			],
+			[
+				"demo.",
+				"beholder/demos/demo/demo.py"
+			],
+			[
+				"beplug",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"behif",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"behin",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"filest",
+				"beholder/file_system_tools.py"
+			],
+			[
+				"workspa",
+				"WORKSPACE"
+			],
+			[
+				"behinfo",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"behodash",
+				"beholder/client_side/beholder-dashboard.html"
+			],
+			[
+				"behoplu",
+				"beholder/server_side/beholder_plugin.py"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"beinfo",
+				"beholder/client_side/beholder-info.html"
+			],
+			[
+				"bisual",
+				"beholder/visualizer.py"
+			],
+			[
+				"tesv",
+				"beholder/tests/visualizer_test.py"
+			],
+			[
+				"seinfo",
+				"beholder/client_side/beholder-info.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "os",
+		"selected_items":
+		[
+			[
+				"os",
+				"~/school-projects/601-os/os161.sublime-project"
+			],
+			[
+				"behol",
+				"~/school-projects/beholder/demo/beholder.sublime-project"
+			],
+			[
+				"beh",
+				"~/beholder.sublime-project"
+			],
+			[
+				"behl",
+				"~/school-projects/beholder/demo/beholder.sublime-project"
+			],
+			[
+				"scrip",
+				"~/Documents/sublime-projects/scripture study.sublime-project"
+			],
+			[
+				"lab",
+				"~/school-projects/501r/8-rnn/501r lab 8.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
