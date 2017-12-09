@@ -22,6 +22,9 @@
  * Shared initialization routines
  */
 
+// Car.number_of_tires
+// new Car().number
+
 static uint32_t startcount;
 static struct lock *testlock;
 static struct cv *startcv;
@@ -429,6 +432,26 @@ static volatile int car_turns[NCARS];
 static volatile int car_turn_times[NCARS];
 static volatile void* car_threads[NCARS];
 
+/*
+	Index: the ID of the car
+	quadrant_array: keeps track of counts per intersection	
+	Maybe have one lock per quadrant.
+
+	All straight:
+		deadlock
+
+	All right:
+		free movement
+
+	2 goes right:
+		0: straight, right, left
+		1: right, straight, left
+		3: right
+
+	2 goes straight:
+		0: straight, right, left
+*/
+
 static
 void
 initialize_car_thread(uint32_t index, uint32_t direction, uint32_t turn) {
@@ -438,11 +461,14 @@ initialize_car_thread(uint32_t index, uint32_t direction, uint32_t turn) {
 	car_turn_times[index] = 0;
 }
 
+
 static
 void
 check_intersection() {
 	int n = 0;
 	for (int i = 0; i < NUM_QUADRANTS; i++) {
+		// Seems that mutexes should work if only one can be in a quadrant
+		// at a time.
 		failif((quadrant_array[i] > 1), "failed: collision");
 		n += quadrant_array[i];
 	}
@@ -462,7 +488,7 @@ move(uint32_t index) {
 	check_intersection();
 	int pre_location = car_locations[index];
 	if (pre_location != UNKNOWN_CAR && pre_location != PASSED_CAR) {
-		quadrant_array[pre_location]--;
+		quadrant_array[pre_location]--; // car is no longer here.
 	}
 	return pre_location;
 }

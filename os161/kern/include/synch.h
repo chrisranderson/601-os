@@ -62,7 +62,6 @@ void sem_destroy(struct semaphore *);
 void P(struct semaphore *);
 void V(struct semaphore *);
 
-
 /*
  * Simple lock for mutual exclusion.
  *

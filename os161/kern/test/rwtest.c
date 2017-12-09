@@ -11,9 +11,11 @@
 #include <test.h>
 #include <kern/test161.h>
 #include <spinlock.h>
+// #include <stdio.h>
+// #include <string.h>
 // #include <test_data.c>
 
-#define NTHREADS 4
+#define NTHREADS 10
 
 
 
@@ -29,6 +31,16 @@ static void reader_thread (void* unstructured_data, unsigned long thread_number)
 	rwlock_acquire_read(test_data->lock);
 	kprintf("%lu-%s\n", thread_number, test_data->data);
 	rwlock_release_read(test_data->lock);
+}
+
+static void writer_thread(void* unstructured_data, unsigned long thread_number) {
+	(void) thread_number;
+	
+	test_struct* test_data = (test_struct*) unstructured_data;
+
+	rwlock_acquire_write(test_data->lock);
+	test_data->data = (char*) "writer thread";
+	rwlock_release_write(test_data->lock);
 }
 
 test_struct* make_struct (void);
@@ -48,20 +60,13 @@ int rwtest(int nargs, char **args) {
 	(void)nargs;
 	(void)args;
 
-	int result;
-
 	test_struct* test_data = make_struct();
 
-	for (int i = 0; i < NTHREADS; i++) {
-		result = thread_fork("rwtest", NULL, reader_thread, test_data, i);
-		kprintf("%i", i);
+	for (int i = 0; i < NTHREADS / 2; i++) {
+		thread_fork("rwtest", NULL, reader_thread, test_data, i);
 	}
 
-	kprintf("All done!");
-
 	success(TEST161_SUCCESS, SECRET, "rwt1");
-
-	(void) result;
 	return 0;
 }
 
@@ -70,9 +75,13 @@ int rwtest2(int nargs, char **args) {
 	(void)nargs;
 	(void)args;
 
-	kprintf_n("rwt2 unimplemented\n");
-	success(TEST161_FAIL, SECRET, "rwt2");
+	test_struct* test_data = make_struct();
+	for (int i = 0; i < NTHREADS; i++) {
+		thread_fork("rwtest", NULL, writer_thread, test_data, i);
+		thread_fork("rwtest", NULL, reader_thread, test_data, i);
+	}
 
+	success(TEST161_SUCCESS, SECRET, "rwt2");
 	return 0;
 }
 

@@ -72,10 +72,20 @@
 /*
  * Called by the driver during initialization.
  */
+static struct lock* q1;
+static struct lock* q2;
+static struct lock* q3;
+static struct lock* q4;
+static struct semaphore* intersection_semaphore;
 
 void
 stoplight_init() {
-	return;
+	q1 = lock_create("q1");
+	q2 = lock_create("q2");
+	q3 = lock_create("q3");
+	q4 = lock_create("q4");
+
+	intersection_semaphore = sem_create("intersection", 3);
 }
 
 /*
@@ -86,33 +96,97 @@ void stoplight_cleanup() {
 	return;
 }
 
+void acquire_quadrant_lock(uint32_t);
+void acquire_quadrant_lock(uint32_t quadrant_number) {
+	switch (quadrant_number) {
+		case 0:
+			lock_acquire(q1);
+			break;
+		case 1:
+			lock_acquire(q2);
+			break;
+		case 2:
+			lock_acquire(q3);
+			break;
+		case 3:
+			lock_acquire(q4);
+			break;
+	}
+}
+
+void release_quadrant_lock(uint32_t);
+void release_quadrant_lock(uint32_t quadrant_number) {
+	switch (quadrant_number) {
+		case 0:
+			lock_release(q1);
+			break;
+		case 1:
+			lock_release(q2);
+			break;
+		case 2:
+			lock_release(q3);
+			break;
+		case 3:
+			lock_release(q4);
+			break;
+	}
+}
+
+void move_to_quadrant(uint32_t, uint32_t, uint32_t);
+void move_to_quadrant(uint32_t index, uint32_t previous_quadrant,  uint32_t next_quadrant) {
+	acquire_quadrant_lock(next_quadrant);
+	inQuadrant(next_quadrant, index);
+	release_quadrant_lock(previous_quadrant);
+}
+
+void leave_intersection(uint32_t, uint32_t);
+void leave_intersection(uint32_t index, uint32_t previous_quadrant) {
+	leaveIntersection(index);
+	release_quadrant_lock(previous_quadrant);
+
+	V(intersection_semaphore);
+}
+
+void enter_intersection(uint32_t, uint32_t);
+void enter_intersection(uint32_t index, uint32_t direction) {
+	P(intersection_semaphore);
+
+	acquire_quadrant_lock(direction);
+	inQuadrant(direction, index);
+}
+
 void
 turnright(uint32_t direction, uint32_t index)
 {
 	(void)direction;
 	(void)index;
-	/*
-	 * Implement this function.
-	 */
+
+	enter_intersection(index, direction);
+	leave_intersection(index, direction);
 	return;
 }
+
 void
 gostraight(uint32_t direction, uint32_t index)
 {
 	(void)direction;
 	(void)index;
-	/*
-	 * Implement this function.
-	 */
+
+	enter_intersection(index, direction);
+	move_to_quadrant(index, direction, (direction + 3) % 4);
+	leave_intersection(index, (direction + 3) % 4);
 	return;
 }
+
 void
 turnleft(uint32_t direction, uint32_t index)
 {
 	(void)direction;
 	(void)index;
-	/*
-	 * Implement this function.
-	 */
+
+	enter_intersection(index, direction);
+	move_to_quadrant(index, direction, (direction + 3) % 4);
+	move_to_quadrant(index, (direction + 3) % 4, (direction + 2) % 4);
+	leave_intersection(index, (direction + 2) % 4);
 	return;
 }
