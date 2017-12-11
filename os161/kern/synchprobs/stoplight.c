@@ -158,9 +158,6 @@ void enter_intersection(uint32_t index, uint32_t direction) {
 void
 turnright(uint32_t direction, uint32_t index)
 {
-	(void)direction;
-	(void)index;
-
 	enter_intersection(index, direction);
 	leave_intersection(index, direction);
 	return;
@@ -169,9 +166,6 @@ turnright(uint32_t direction, uint32_t index)
 void
 gostraight(uint32_t direction, uint32_t index)
 {
-	(void)direction;
-	(void)index;
-
 	enter_intersection(index, direction);
 	move_to_quadrant(index, direction, (direction + 3) % 4);
 	leave_intersection(index, (direction + 3) % 4);
@@ -181,9 +175,6 @@ gostraight(uint32_t direction, uint32_t index)
 void
 turnleft(uint32_t direction, uint32_t index)
 {
-	(void)direction;
-	(void)index;
-
 	enter_intersection(index, direction);
 	move_to_quadrant(index, direction, (direction + 3) % 4);
 	move_to_quadrant(index, (direction + 3) % 4, (direction + 2) % 4);
